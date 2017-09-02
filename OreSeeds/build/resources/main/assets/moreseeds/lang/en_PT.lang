@@ -1,0 +1,13 @@
+tile.crop.diamondcrop.name=Diamond Crop
+tile.crop.ironcrop.name=Iron Crop
+tile.crop.goldcrop.name=Gold Crop
+tile.crop.emeraldcrop.name=Emerald Crop
+
+item.seed.diamondcrop.name=Seed o' Wealth
+item.seed.ironcrop.name=Iron Bullion Grower
+item.seed.goldcrop.name=Gold Bullion Grower
+item.seed.emeraldcrop.name=Sea Sick Sailor's Vomit Seed
+
+tile.crop.strawberrycrop.name=Sickly Baby Apple Plant
+item.seed.strawberryseed.name=Sickly Apple Seed
+item.Strawberry.name=A Sickly Baby Apple

@@ -1,0 +1,66 @@
+Symbol range map extraction starting
+Processing 18 files
+startProcessing "zdoctor\moreseeds\Constants.java" md5: c3ae1fb3f9ebac5470b76d7ccd72f461
+Cache Hit!
+endProcessing "zdoctor\moreseeds\Constants.java"
+
+startProcessing "zdoctor\moreseeds\ModMain.java" md5: ca44f23493319e8a8210c1be4a8c31f9
+endProcessing "zdoctor\moreseeds\ModMain.java"
+
+startProcessing "zdoctor\moreseeds\achievements\AchievementRegistry.java" md5: c12edb3da40ab41c83c96f1389cabe25
+Cache Hit!
+endProcessing "zdoctor\moreseeds\achievements\AchievementRegistry.java"
+
+startProcessing "zdoctor\moreseeds\achievements\classes\AchievementSeeds.java" md5: b572c40b776dd2bd9fe8f39e0f2f42bc
+Cache Hit!
+endProcessing "zdoctor\moreseeds\achievements\classes\AchievementSeeds.java"
+
+startProcessing "zdoctor\moreseeds\config\Config.java" md5: c383c847aa0c00534dc9c8cf65352133
+Cache Hit!
+endProcessing "zdoctor\moreseeds\config\Config.java"
+
+startProcessing "zdoctor\moreseeds\config\ConfigGuiFactory.java" md5: c79715352a47d58dae81636986d7eec5
+endProcessing "zdoctor\moreseeds\config\ConfigGuiFactory.java"
+
+startProcessing "zdoctor\moreseeds\crops\CropBase.java" md5: fd0301aa4056f13c8737ea8b2448d702
+endProcessing "zdoctor\moreseeds\crops\CropBase.java"
+
+startProcessing "zdoctor\moreseeds\crops\DiamondCrop.java" md5: 664f6f70403e385142a063982e611084
+endProcessing "zdoctor\moreseeds\crops\DiamondCrop.java"
+
+startProcessing "zdoctor\moreseeds\crops\EmeraldCrop.java" md5: b463c079b21a4712c956f762c735ecfb
+endProcessing "zdoctor\moreseeds\crops\EmeraldCrop.java"
+
+startProcessing "zdoctor\moreseeds\crops\GoldCrop.java" md5: d8eda693a49b574f8a53812b48745ae1
+endProcessing "zdoctor\moreseeds\crops\GoldCrop.java"
+
+startProcessing "zdoctor\moreseeds\crops\IronCrop.java" md5: f320f7f3c560d61a35e3e1fadd047c8c
+endProcessing "zdoctor\moreseeds\crops\IronCrop.java"
+
+startProcessing "zdoctor\moreseeds\crops\StrawberryCrop.java" md5: 3c0f1beab72922752238309d43e7eca3
+Cache Hit!
+endProcessing "zdoctor\moreseeds\crops\StrawberryCrop.java"
+
+startProcessing "zdoctor\moreseeds\init\ZBlocks.java" md5: 72a91f01f3e8fb333e69808248a5e01b
+Cache Hit!
+endProcessing "zdoctor\moreseeds\init\ZBlocks.java"
+
+startProcessing "zdoctor\moreseeds\init\ZEvents.java" md5: 8c5f995aa1c801d0eb89b6275617daf9
+Cache Hit!
+endProcessing "zdoctor\moreseeds\init\ZEvents.java"
+
+startProcessing "zdoctor\moreseeds\init\ZItems.java" md5: 1a4f33ae3a3b91b0b0f9a7170328e3e6
+Cache Hit!
+endProcessing "zdoctor\moreseeds\init\ZItems.java"
+
+startProcessing "zdoctor\moreseeds\proxy\ClientProxy.java" md5: 60f5189244aa3b8dc30e4bb5bf24f194
+Cache Hit!
+endProcessing "zdoctor\moreseeds\proxy\ClientProxy.java"
+
+startProcessing "zdoctor\moreseeds\proxy\CommonProxy.java" md5: 84aa9543138e5ae06fcb8baaf88581ba
+endProcessing "zdoctor\moreseeds\proxy\CommonProxy.java"
+
+startProcessing "zdoctor\moreseeds\proxy\ServerProxy.java" md5: ba42cc1334b54850668ab3e5d52e7f1c
+Cache Hit!
+endProcessing "zdoctor\moreseeds\proxy\ServerProxy.java"
+

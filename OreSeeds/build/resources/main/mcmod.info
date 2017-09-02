@@ -1,0 +1,13 @@
+[{
+  "modid":"moreseeds",
+  "name": "M'Ore Seeds",
+  "description": "Adds material plants into the game. Send feed back to: ZDoctorsMods@gmail.com",
+  "version": "0.9",
+  "mcversion": "1.12.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Z_Doctor"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": []
+}]

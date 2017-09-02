@@ -1,0 +1,34 @@
+tile.crop.diamondcrop.name=Diamond Crop
+tile.crop.ironcrop.name=Iron Crop
+tile.crop.goldcrop.name=Gold Crop
+tile.crop.emeraldcrop.name=Emerald Crop
+
+item.seed.diamondcrop.name=Diamond Seed
+item.seed.emeraldcrop.name=Emerald Seed
+item.seed.goldcrop.name=Gold Seed
+item.seed.ironcrop.name=Iron Seed
+
+tile.crop.strawberrycrop.name=Strawberry Plant
+item.seed.strawberrycrop.name=Strawberry Seed
+item.Strawberry.name=Strawberry
+
+achievement.getwitherskull=Finders Keepers
+achievement.getwitherskull.desc=Find a Wither Skeleton Skull
+
+achievement.getnetherstar=Oh the possibilities.
+achievement.getnetherstar.desc=Find a Nether Star
+
+achievement.craftdiamondcrop=Oh the possibilities.
+achievement.craftdiamondcrop.desc=Craft a Diamond Seed
+
+achievement.craftemeraldcrop=Economy Crasher
+achievement.craftemeraldcrop.desc=Craft an Emerald Seed
+
+achievement.craftgoldcrop=I can't believe it's not budder!
+achievement.craftemeraldcrop.desc=Craft a Gold Seed
+
+achievement.craftironcrop=Iron Man
+achievement.craftironcrop.desc=Craft an Iron Seed
+
+achievement.getstrawberry=Sweet Enough For you?
+achievement.getstrawberry.desc=Find a Strawberry

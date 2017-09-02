@@ -1,0 +1,1236 @@
+Symbol range map extraction starting
+Processing 18 files
+startProcessing "zdoctor\moreseeds\Constants.java" md5: c3ae1fb3f9ebac5470b76d7ccd72f461
+Cache Hit!
+@|zdoctor\moreseeds\Constants.java|8|25|zdoctor.moreseeds|package|zdoctor.moreseeds|(file)
+Class Start: zdoctor.moreseeds.Constants
+   @|zdoctor\moreseeds\Constants.java|90|99|Constants|class|zdoctor.moreseeds.Constants
+   @|zdoctor\moreseeds\Constants.java|124|130|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|124|130|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|131|143|GROWCATEGORY|field|zdoctor.moreseeds.Constants|GROWCATEGORY|
+   @|zdoctor\moreseeds\Constants.java|188|194|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|188|194|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|195|206|GROWPEACFUL|field|zdoctor.moreseeds.Constants|GROWPEACFUL|
+   @|zdoctor\moreseeds\Constants.java|249|255|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|249|255|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|256|274|GROWPEACFULCOMMENT|field|zdoctor.moreseeds.Constants|GROWPEACFULCOMMENT|
+   @|zdoctor\moreseeds\Constants.java|348|354|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|348|354|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|355|365|GROWNETHER|field|zdoctor.moreseeds.Constants|GROWNETHER|
+   @|zdoctor\moreseeds\Constants.java|410|416|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|410|416|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|417|434|GROWNETHERCOMMENT|field|zdoctor.moreseeds.Constants|GROWNETHERCOMMENT|
+   @|zdoctor\moreseeds\Constants.java|535|541|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|535|541|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|542|555|ALLOWBONEMEAL|field|zdoctor.moreseeds.Constants|ALLOWBONEMEAL|
+   @|zdoctor\moreseeds\Constants.java|596|602|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|596|602|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|603|623|ALLOWBONEMEALCOMMENT|field|zdoctor.moreseeds.Constants|ALLOWBONEMEALCOMMENT|
+   @|zdoctor\moreseeds\Constants.java|696|702|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|696|702|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|703|715|LOOTCATEGORY|field|zdoctor.moreseeds.Constants|LOOTCATEGORY|
+   @|zdoctor\moreseeds\Constants.java|755|761|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|755|761|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|762|770|SEEDDROP|field|zdoctor.moreseeds.Constants|SEEDDROP|
+   @|zdoctor\moreseeds\Constants.java|810|816|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|810|816|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|817|832|SEEDDROPCOMMENT|field|zdoctor.moreseeds.Constants|SEEDDROPCOMMENT|
+   @|zdoctor\moreseeds\Constants.java|905|911|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|905|911|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|912|929|DIAMONDSEEDCHANCE|field|zdoctor.moreseeds.Constants|DIAMONDSEEDCHANCE|
+   @|zdoctor\moreseeds\Constants.java|971|977|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|971|977|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|978|995|EMERALDSEEDCHANCE|field|zdoctor.moreseeds.Constants|EMERALDSEEDCHANCE|
+   @|zdoctor\moreseeds\Constants.java|1038|1044|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|1038|1044|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|1045|1059|GOLDSEEDCHANCE|field|zdoctor.moreseeds.Constants|GOLDSEEDCHANCE|
+   @|zdoctor\moreseeds\Constants.java|1099|1105|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|1099|1105|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|1106|1120|IRONSEEDCHANCE|field|zdoctor.moreseeds.Constants|IRONSEEDCHANCE|
+   @|zdoctor\moreseeds\Constants.java|1160|1166|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|1160|1166|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|1167|1184|DROPCHANCECOMMENT|field|zdoctor.moreseeds.Constants|DROPCHANCECOMMENT|
+   @|zdoctor\moreseeds\Constants.java|1233|1239|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|1228|1232|List|class|java.util.List
+   @|zdoctor\moreseeds\Constants.java|1228|1232|List|class|java.util.List
+   @|zdoctor\moreseeds\Constants.java|1233|1239|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|1241|1258|LOOTCATEGORYORDER|field|zdoctor.moreseeds.Constants|LOOTCATEGORYORDER|
+   @|zdoctor\moreseeds\Constants.java|1261|1267|Arrays|class|java.util.Arrays
+   @|zdoctor\moreseeds\Constants.java|1268|1274|asList|method|java.util.Arrays|asList|([Ljava/lang/Object;)Ljava/util/List;
+   @|zdoctor\moreseeds\Constants.java|1279|1285|String|class|java.lang.String
+   @|zdoctor\moreseeds\Constants.java|1289|1297|SEEDDROP|field|zdoctor.moreseeds.Constants|SEEDDROP
+   @|zdoctor\moreseeds\Constants.java|1299|1316|DIAMONDSEEDCHANCE|field|zdoctor.moreseeds.Constants|DIAMONDSEEDCHANCE
+   @|zdoctor\moreseeds\Constants.java|1318|1335|EMERALDSEEDCHANCE|field|zdoctor.moreseeds.Constants|EMERALDSEEDCHANCE
+   @|zdoctor\moreseeds\Constants.java|1337|1351|GOLDSEEDCHANCE|field|zdoctor.moreseeds.Constants|GOLDSEEDCHANCE
+   @|zdoctor\moreseeds\Constants.java|1353|1367|IRONSEEDCHANCE|field|zdoctor.moreseeds.Constants|IRONSEEDCHANCE
+Class End  : zdoctor.moreseeds.Constants
+endProcessing "zdoctor\moreseeds\Constants.java"
+
+startProcessing "zdoctor\moreseeds\ModMain.java" md5: ca44f23493319e8a8210c1be4a8c31f9
+@|zdoctor\moreseeds\ModMain.java|8|25|zdoctor.moreseeds|package|zdoctor.moreseeds|(file)
+Class Start: zdoctor.moreseeds.ModMain
+   @|zdoctor\moreseeds\ModMain.java|478|481|Mod|class|net.minecraftforge.fml.common.Mod
+   @|zdoctor\moreseeds\ModMain.java|482|487|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|zdoctor\moreseeds\ModMain.java|490|497|ModMain|class|zdoctor.moreseeds.ModMain
+   @|zdoctor\moreseeds\ModMain.java|498|503|MODID|field|zdoctor.moreseeds.ModMain|MODID
+   @|zdoctor\moreseeds\ModMain.java|505|517|dependencies|method|net.minecraftforge.fml.common.Mod|dependencies|()Ljava/lang/String;
+   @|zdoctor\moreseeds\ModMain.java|520|527|ModMain|class|zdoctor.moreseeds.ModMain
+   @|zdoctor\moreseeds\ModMain.java|528|535|DEPENDS|field|zdoctor.moreseeds.ModMain|DEPENDS
+   @|zdoctor\moreseeds\ModMain.java|537|547|guiFactory|method|net.minecraftforge.fml.common.Mod|guiFactory|()Ljava/lang/String;
+   @|zdoctor\moreseeds\ModMain.java|550|557|ModMain|class|zdoctor.moreseeds.ModMain
+   @|zdoctor\moreseeds\ModMain.java|558|568|CONFIG_GUI|field|zdoctor.moreseeds.ModMain|CONFIG_GUI
+   @|zdoctor\moreseeds\ModMain.java|583|590|ModMain|class|zdoctor.moreseeds.ModMain
+   @|zdoctor\moreseeds\ModMain.java|614|620|String|class|java.lang.String
+   @|zdoctor\moreseeds\ModMain.java|614|620|String|class|java.lang.String
+   @|zdoctor\moreseeds\ModMain.java|621|626|MODID|field|zdoctor.moreseeds.ModMain|MODID|
+   @|zdoctor\moreseeds\ModMain.java|663|669|String|class|java.lang.String
+   @|zdoctor\moreseeds\ModMain.java|663|669|String|class|java.lang.String
+   @|zdoctor\moreseeds\ModMain.java|670|677|DEPENDS|field|zdoctor.moreseeds.ModMain|DEPENDS|
+   @|zdoctor\moreseeds\ModMain.java|737|743|String|class|java.lang.String
+   @|zdoctor\moreseeds\ModMain.java|737|743|String|class|java.lang.String
+   @|zdoctor\moreseeds\ModMain.java|744|754|CONFIG_GUI|field|zdoctor.moreseeds.ModMain|CONFIG_GUI|
+   @|zdoctor\moreseeds\ModMain.java|817|827|EasyConfig|class|zdoctor.lazymodder.easy.config.EasyConfig
+   @|zdoctor\moreseeds\ModMain.java|817|827|EasyConfig|class|zdoctor.lazymodder.easy.config.EasyConfig
+   @|zdoctor\moreseeds\ModMain.java|828|834|config|field|zdoctor.moreseeds.ModMain|config|
+   @|zdoctor\moreseeds\ModMain.java|969|980|CommonProxy|class|zdoctor.moreseeds.proxy.CommonProxy
+   @|zdoctor\moreseeds\ModMain.java|839|849|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|zdoctor\moreseeds\ModMain.java|850|860|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|zdoctor\moreseeds\ModMain.java|902|912|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|zdoctor\moreseeds\ModMain.java|969|980|CommonProxy|class|zdoctor.moreseeds.proxy.CommonProxy
+   @|zdoctor\moreseeds\ModMain.java|981|986|proxy|field|zdoctor.moreseeds.ModMain|proxy|
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|zdoctor\moreseeds\ModMain.java|1051|1052|e|param|zdoctor.moreseeds.ModMain|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\ModMain.java|991|1003|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|zdoctor\moreseeds\ModMain.java|1017|1024|preInit|method|zdoctor.moreseeds.ModMain|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|zdoctor\moreseeds\ModMain.java|1025|1050|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|zdoctor\moreseeds\ModMain.java|1063|1068|proxy|field|zdoctor.moreseeds.ModMain|proxy
+      @|zdoctor\moreseeds\ModMain.java|1069|1076|preInit|method|zdoctor.moreseeds.proxy.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|zdoctor\moreseeds\ModMain.java|1077|1078|e|param|zdoctor.moreseeds.ModMain|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\ModMain.java|1083|1089|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\ModMain.java|1096|1106|EasyConfig|class|zdoctor.lazymodder.easy.config.EasyConfig
+      @|zdoctor\moreseeds\ModMain.java|1107|1108|e|param|zdoctor.moreseeds.ModMain|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\ModMain.java|1113|1119|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\ModMain.java|1120|1135|registerBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|registerBoolean|(Ljava/lang/String;Ljava/lang/String;Z[Ljava/lang/String;)Lzdoctor/lazymodder/easy/config/EasyConfig;
+      @|zdoctor\moreseeds\ModMain.java|1136|1145|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1146|1158|GROWCATEGORY|field|zdoctor.moreseeds.Constants|GROWCATEGORY
+      @|zdoctor\moreseeds\ModMain.java|1160|1169|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1170|1181|GROWPEACFUL|field|zdoctor.moreseeds.Constants|GROWPEACFUL
+      @|zdoctor\moreseeds\ModMain.java|1190|1199|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1200|1218|GROWPEACFULCOMMENT|field|zdoctor.moreseeds.Constants|GROWPEACFULCOMMENT
+      @|zdoctor\moreseeds\ModMain.java|1223|1229|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\ModMain.java|1230|1245|registerBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|registerBoolean|(Ljava/lang/String;Ljava/lang/String;Z[Ljava/lang/String;)Lzdoctor/lazymodder/easy/config/EasyConfig;
+      @|zdoctor\moreseeds\ModMain.java|1246|1255|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1256|1268|GROWCATEGORY|field|zdoctor.moreseeds.Constants|GROWCATEGORY
+      @|zdoctor\moreseeds\ModMain.java|1270|1279|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1280|1290|GROWNETHER|field|zdoctor.moreseeds.Constants|GROWNETHER
+      @|zdoctor\moreseeds\ModMain.java|1298|1307|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1308|1325|GROWNETHERCOMMENT|field|zdoctor.moreseeds.Constants|GROWNETHERCOMMENT
+      @|zdoctor\moreseeds\ModMain.java|1330|1336|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\ModMain.java|1337|1352|registerBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|registerBoolean|(Ljava/lang/String;Ljava/lang/String;Z[Ljava/lang/String;)Lzdoctor/lazymodder/easy/config/EasyConfig;
+      @|zdoctor\moreseeds\ModMain.java|1353|1362|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1363|1375|GROWCATEGORY|field|zdoctor.moreseeds.Constants|GROWCATEGORY
+      @|zdoctor\moreseeds\ModMain.java|1377|1386|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1387|1400|ALLOWBONEMEAL|field|zdoctor.moreseeds.Constants|ALLOWBONEMEAL
+      @|zdoctor\moreseeds\ModMain.java|1409|1418|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1419|1439|ALLOWBONEMEALCOMMENT|field|zdoctor.moreseeds.Constants|ALLOWBONEMEALCOMMENT
+      @|zdoctor\moreseeds\ModMain.java|1445|1451|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\ModMain.java|1452|1467|registerBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|registerBoolean|(Ljava/lang/String;Ljava/lang/String;Z[Ljava/lang/String;)Lzdoctor/lazymodder/easy/config/EasyConfig;
+      @|zdoctor\moreseeds\ModMain.java|1468|1477|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1478|1490|LOOTCATEGORY|field|zdoctor.moreseeds.Constants|LOOTCATEGORY
+      @|zdoctor\moreseeds\ModMain.java|1492|1501|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1502|1510|SEEDDROP|field|zdoctor.moreseeds.Constants|SEEDDROP
+      @|zdoctor\moreseeds\ModMain.java|1518|1527|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1528|1543|SEEDDROPCOMMENT|field|zdoctor.moreseeds.Constants|SEEDDROPCOMMENT
+      @|zdoctor\moreseeds\ModMain.java|1548|1554|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\ModMain.java|1555|1566|registerInt|method|zdoctor.lazymodder.easy.config.EasyConfig|registerInt|(Ljava/lang/String;Ljava/lang/String;III[Ljava/lang/String;)Lzdoctor/lazymodder/easy/config/EasyConfig;
+      @|zdoctor\moreseeds\ModMain.java|1567|1576|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1577|1589|LOOTCATEGORY|field|zdoctor.moreseeds.Constants|LOOTCATEGORY
+      @|zdoctor\moreseeds\ModMain.java|1591|1600|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1601|1618|DIAMONDSEEDCHANCE|field|zdoctor.moreseeds.Constants|DIAMONDSEEDCHANCE
+      @|zdoctor\moreseeds\ModMain.java|1631|1640|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1641|1658|DROPCHANCECOMMENT|field|zdoctor.moreseeds.Constants|DROPCHANCECOMMENT
+      @|zdoctor\moreseeds\ModMain.java|1663|1669|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\ModMain.java|1670|1681|registerInt|method|zdoctor.lazymodder.easy.config.EasyConfig|registerInt|(Ljava/lang/String;Ljava/lang/String;III[Ljava/lang/String;)Lzdoctor/lazymodder/easy/config/EasyConfig;
+      @|zdoctor\moreseeds\ModMain.java|1682|1691|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1692|1704|LOOTCATEGORY|field|zdoctor.moreseeds.Constants|LOOTCATEGORY
+      @|zdoctor\moreseeds\ModMain.java|1706|1715|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1716|1733|EMERALDSEEDCHANCE|field|zdoctor.moreseeds.Constants|EMERALDSEEDCHANCE
+      @|zdoctor\moreseeds\ModMain.java|1751|1760|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1761|1778|DROPCHANCECOMMENT|field|zdoctor.moreseeds.Constants|DROPCHANCECOMMENT
+      @|zdoctor\moreseeds\ModMain.java|1783|1789|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\ModMain.java|1790|1801|registerInt|method|zdoctor.lazymodder.easy.config.EasyConfig|registerInt|(Ljava/lang/String;Ljava/lang/String;III[Ljava/lang/String;)Lzdoctor/lazymodder/easy/config/EasyConfig;
+      @|zdoctor\moreseeds\ModMain.java|1802|1811|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1812|1824|LOOTCATEGORY|field|zdoctor.moreseeds.Constants|LOOTCATEGORY
+      @|zdoctor\moreseeds\ModMain.java|1826|1835|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1836|1850|GOLDSEEDCHANCE|field|zdoctor.moreseeds.Constants|GOLDSEEDCHANCE
+      @|zdoctor\moreseeds\ModMain.java|1864|1873|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1874|1891|DROPCHANCECOMMENT|field|zdoctor.moreseeds.Constants|DROPCHANCECOMMENT
+      @|zdoctor\moreseeds\ModMain.java|1896|1902|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\ModMain.java|1903|1914|registerInt|method|zdoctor.lazymodder.easy.config.EasyConfig|registerInt|(Ljava/lang/String;Ljava/lang/String;III[Ljava/lang/String;)Lzdoctor/lazymodder/easy/config/EasyConfig;
+      @|zdoctor\moreseeds\ModMain.java|1915|1924|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1925|1937|LOOTCATEGORY|field|zdoctor.moreseeds.Constants|LOOTCATEGORY
+      @|zdoctor\moreseeds\ModMain.java|1939|1948|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1949|1963|IRONSEEDCHANCE|field|zdoctor.moreseeds.Constants|IRONSEEDCHANCE
+      @|zdoctor\moreseeds\ModMain.java|1977|1986|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|1987|2004|DROPCHANCECOMMENT|field|zdoctor.moreseeds.Constants|DROPCHANCECOMMENT
+      @|zdoctor\moreseeds\ModMain.java|2009|2015|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\ModMain.java|2016|2025|getConfig|method|zdoctor.lazymodder.easy.config.EasyConfig|getConfig|()Lnet/minecraftforge/common/config/Configuration;
+      @|zdoctor\moreseeds\ModMain.java|2028|2052|setCategoryPropertyOrder|method|net.minecraftforge.common.config.Configuration|setCategoryPropertyOrder|(Ljava/lang/String;Ljava/util/List;)Lnet/minecraftforge/common/config/Configuration;
+      @|zdoctor\moreseeds\ModMain.java|2053|2062|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|2063|2075|LOOTCATEGORY|field|zdoctor.moreseeds.Constants|LOOTCATEGORY
+      @|zdoctor\moreseeds\ModMain.java|2077|2086|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\ModMain.java|2087|2104|LOOTCATEGORYORDER|field|zdoctor.moreseeds.Constants|LOOTCATEGORYORDER
+      @|zdoctor\moreseeds\ModMain.java|2110|2116|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\ModMain.java|2117|2122|close|method|zdoctor.lazymodder.easy.config.EasyConfig|close|()V
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|zdoctor\moreseeds\ModMain.java|2186|2187|e|param|zdoctor.moreseeds.ModMain|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\ModMain.java|2132|2144|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|zdoctor\moreseeds\ModMain.java|2158|2162|init|method|zdoctor.moreseeds.ModMain|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|zdoctor\moreseeds\ModMain.java|2163|2185|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|zdoctor\moreseeds\ModMain.java|2231|2236|proxy|field|zdoctor.moreseeds.ModMain|proxy
+      @|zdoctor\moreseeds\ModMain.java|2237|2241|init|method|zdoctor.moreseeds.proxy.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|zdoctor\moreseeds\ModMain.java|2242|2243|e|param|zdoctor.moreseeds.ModMain|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|zdoctor\moreseeds\ModMain.java|2314|2315|e|param|zdoctor.moreseeds.ModMain|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\ModMain.java|2252|2264|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|zdoctor\moreseeds\ModMain.java|2278|2286|postInit|method|zdoctor.moreseeds.ModMain|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|zdoctor\moreseeds\ModMain.java|2287|2313|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|zdoctor\moreseeds\ModMain.java|2326|2331|proxy|field|zdoctor.moreseeds.ModMain|proxy
+      @|zdoctor\moreseeds\ModMain.java|2332|2340|postInit|method|zdoctor.moreseeds.proxy.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|zdoctor\moreseeds\ModMain.java|2341|2342|e|param|zdoctor.moreseeds.ModMain|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : zdoctor.moreseeds.ModMain
+endProcessing "zdoctor\moreseeds\ModMain.java"
+
+startProcessing "zdoctor\moreseeds\achievements\AchievementRegistry.java" md5: c12edb3da40ab41c83c96f1389cabe25
+Cache Hit!
+@|zdoctor\moreseeds\achievements\AchievementRegistry.java|8|38|zdoctor.moreseeds.achievements|package|zdoctor.moreseeds.achievements|(file)
+Class Start: zdoctor.moreseeds.achievements.AchievementRegistry
+   @|zdoctor\moreseeds\achievements\AchievementRegistry.java|119|138|AchievementRegistry|class|zdoctor.moreseeds.achievements.AchievementRegistry
+   Method Start: load()V
+      @|zdoctor\moreseeds\achievements\AchievementRegistry.java|161|165|load|method|zdoctor.moreseeds.achievements.AchievementRegistry|load|()V
+      @|zdoctor\moreseeds\achievements\AchievementRegistry.java|172|188|AchievementSeeds|class|zdoctor.moreseeds.achievements.classes.AchievementSeeds
+      @|zdoctor\moreseeds\achievements\AchievementRegistry.java|189|193|load|method|zdoctor.moreseeds.achievements.classes.AchievementSeeds|load|()V
+   Method End: load()V
+Class End  : zdoctor.moreseeds.achievements.AchievementRegistry
+endProcessing "zdoctor\moreseeds\achievements\AchievementRegistry.java"
+
+startProcessing "zdoctor\moreseeds\achievements\classes\AchievementSeeds.java" md5: b572c40b776dd2bd9fe8f39e0f2f42bc
+Cache Hit!
+@|zdoctor\moreseeds\achievements\classes\AchievementSeeds.java|8|46|zdoctor.moreseeds.achievements.classes|package|zdoctor.moreseeds.achievements.classes|(file)
+Class Start: zdoctor.moreseeds.achievements.classes.AchievementSeeds
+   @|zdoctor\moreseeds\achievements\classes\AchievementSeeds.java|62|78|AchievementSeeds|class|zdoctor.moreseeds.achievements.classes.AchievementSeeds
+   Method Start: load()V
+      @|zdoctor\moreseeds\achievements\classes\AchievementSeeds.java|1269|1273|load|method|zdoctor.moreseeds.achievements.classes.AchievementSeeds|load|()V
+   Method End: load()V
+Class End  : zdoctor.moreseeds.achievements.classes.AchievementSeeds
+endProcessing "zdoctor\moreseeds\achievements\classes\AchievementSeeds.java"
+
+startProcessing "zdoctor\moreseeds\config\Config.java" md5: c383c847aa0c00534dc9c8cf65352133
+Cache Hit!
+@|zdoctor\moreseeds\config\Config.java|8|32|zdoctor.moreseeds.config|package|zdoctor.moreseeds.config|(file)
+endProcessing "zdoctor\moreseeds\config\Config.java"
+
+startProcessing "zdoctor\moreseeds\config\ConfigGuiFactory.java" md5: c79715352a47d58dae81636986d7eec5
+@|zdoctor\moreseeds\config\ConfigGuiFactory.java|8|32|zdoctor.moreseeds.config|package|zdoctor.moreseeds.config|(file)
+Class Start: zdoctor.moreseeds.config.ConfigGuiFactory
+   @|zdoctor\moreseeds\config\ConfigGuiFactory.java|282|298|ConfigGuiFactory|class|zdoctor.moreseeds.config.ConfigGuiFactory
+   @|zdoctor\moreseeds\config\ConfigGuiFactory.java|307|320|EasyConfigGui|class|zdoctor.lazymodder.easy.config.EasyConfigGui
+   Method Start: ConfigGuiFactory()V
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|331|347|ConfigGuiFactory|method|zdoctor.moreseeds.config.ConfigGuiFactory|ConfigGuiFactory|()V
+   Method End: ConfigGuiFactory()V
+   Method Start: ConfigGuiFactory(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|408|409|e|param|zdoctor.moreseeds.config.ConfigGuiFactory|ConfigGuiFactory|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|365|381|ConfigGuiFactory|method|zdoctor.moreseeds.config.ConfigGuiFactory|ConfigGuiFactory|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|382|407|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|421|422|e|param|zdoctor.moreseeds.config.ConfigGuiFactory|ConfigGuiFactory|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+   Method End: ConfigGuiFactory(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: getTitle()Ljava/lang/String;
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|443|451|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|460|466|String|class|java.lang.String
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|467|475|getTitle|method|zdoctor.lazymodder.easy.config.EasyConfigGui|getTitle|()Ljava/lang/String;
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|489|506|getRandomGreeting|method|zdoctor.moreseeds.config.ConfigGuiFactory|getRandomGreeting|()Ljava/lang/String;
+   Method End: getTitle()Ljava/lang/String;
+   Method Start: getRandomGreeting()Ljava/lang/String;
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|523|529|String|class|java.lang.String
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|530|547|getRandomGreeting|method|zdoctor.moreseeds.config.ConfigGuiFactory|getRandomGreeting|()Ljava/lang/String;
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|554|560|Random|class|java.util.Random
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|571|577|Random|class|java.util.Random
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|595|602|nextInt|method|java.util.Random|nextInt|(I)I
+   Method End: getRandomGreeting()Ljava/lang/String;
+   Method Start: getEasyConfig()Lzdoctor/lazymodder/easy/config/EasyConfig;
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|1191|1199|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|1208|1218|EasyConfig|class|zdoctor.lazymodder.easy.config.EasyConfig
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|1219|1232|getEasyConfig|method|zdoctor.lazymodder.easy.config.EasyConfigGui|getEasyConfig|()Lzdoctor/lazymodder/easy/config/EasyConfig;
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|1246|1253|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\config\ConfigGuiFactory.java|1254|1260|config|field|zdoctor.moreseeds.ModMain|config
+   Method End: getEasyConfig()Lzdoctor/lazymodder/easy/config/EasyConfig;
+Class End  : zdoctor.moreseeds.config.ConfigGuiFactory
+endProcessing "zdoctor\moreseeds\config\ConfigGuiFactory.java"
+
+startProcessing "zdoctor\moreseeds\crops\CropBase.java" md5: fd0301aa4056f13c8737ea8b2448d702
+@|zdoctor\moreseeds\crops\CropBase.java|8|31|zdoctor.moreseeds.crops|package|zdoctor.moreseeds.crops|(file)
+Class Start: zdoctor.moreseeds.crops.CropBase
+   @|zdoctor\moreseeds\crops\CropBase.java|395|403|CropBase|class|zdoctor.moreseeds.crops.CropBase
+   @|zdoctor\moreseeds\crops\CropBase.java|412|426|EasyBlockCrops|class|zdoctor.lazymodder.easy.blocks.EasyBlockCrops
+   Method Start: CropBase(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|zdoctor\moreseeds\crops\CropBase.java|453|457|name|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;)V|name|0
+      @|zdoctor\moreseeds\crops\CropBase.java|464|468|crop|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;)V|crop|1
+      @|zdoctor\moreseeds\crops\CropBase.java|437|445|CropBase|method|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+      @|zdoctor\moreseeds\crops\CropBase.java|446|452|String|class|java.lang.String
+      @|zdoctor\moreseeds\crops\CropBase.java|459|463|Item|class|net.minecraft.item.Item
+      @|zdoctor\moreseeds\crops\CropBase.java|479|483|name|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;)V|name|0
+      @|zdoctor\moreseeds\crops\CropBase.java|485|489|crop|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;)V|crop|1
+      @|zdoctor\moreseeds\crops\CropBase.java|491|497|Blocks|class|net.minecraft.init.Blocks
+      @|zdoctor\moreseeds\crops\CropBase.java|498|506|FARMLAND|field|net.minecraft.init.Blocks|FARMLAND
+   Method End: CropBase(Ljava/lang/String;Lnet/minecraft/item/Item;)V
+   Method Start: CropBase(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;)V
+      @|zdoctor\moreseeds\crops\CropBase.java|538|542|name|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;)V|name|0
+      @|zdoctor\moreseeds\crops\CropBase.java|549|553|crop|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;)V|crop|1
+      @|zdoctor\moreseeds\crops\CropBase.java|561|569|farmLand|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;)V|farmLand|2
+      @|zdoctor\moreseeds\crops\CropBase.java|522|530|CropBase|method|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;)V
+      @|zdoctor\moreseeds\crops\CropBase.java|531|537|String|class|java.lang.String
+      @|zdoctor\moreseeds\crops\CropBase.java|544|548|Item|class|net.minecraft.item.Item
+      @|zdoctor\moreseeds\crops\CropBase.java|555|560|Block|class|net.minecraft.block.Block
+      @|zdoctor\moreseeds\crops\CropBase.java|580|584|name|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;)V|name|0
+      @|zdoctor\moreseeds\crops\CropBase.java|586|590|crop|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;)V|crop|1
+      @|zdoctor\moreseeds\crops\CropBase.java|592|600|farmLand|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;)V|farmLand|2
+      @|zdoctor\moreseeds\crops\CropBase.java|602|610|Material|class|net.minecraft.block.material.Material
+      @|zdoctor\moreseeds\crops\CropBase.java|611|617|PLANTS|field|net.minecraft.block.material.Material|PLANTS
+   Method End: CropBase(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;)V
+   Method Start: CropBase(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;Lnet/minecraft/block/material/Material;)V
+      @|zdoctor\moreseeds\crops\CropBase.java|648|652|name|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;Lnet/minecraft/block/material/Material;)V|name|0
+      @|zdoctor\moreseeds\crops\CropBase.java|659|663|crop|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;Lnet/minecraft/block/material/Material;)V|crop|1
+      @|zdoctor\moreseeds\crops\CropBase.java|671|679|farmLand|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;Lnet/minecraft/block/material/Material;)V|farmLand|2
+      @|zdoctor\moreseeds\crops\CropBase.java|690|698|material|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;Lnet/minecraft/block/material/Material;)V|material|3
+      @|zdoctor\moreseeds\crops\CropBase.java|632|640|CropBase|method|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;Lnet/minecraft/block/material/Material;)V
+      @|zdoctor\moreseeds\crops\CropBase.java|641|647|String|class|java.lang.String
+      @|zdoctor\moreseeds\crops\CropBase.java|654|658|Item|class|net.minecraft.item.Item
+      @|zdoctor\moreseeds\crops\CropBase.java|665|670|Block|class|net.minecraft.block.Block
+      @|zdoctor\moreseeds\crops\CropBase.java|681|689|Material|class|net.minecraft.block.material.Material
+      @|zdoctor\moreseeds\crops\CropBase.java|710|714|name|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;Lnet/minecraft/block/material/Material;)V|name|0
+      @|zdoctor\moreseeds\crops\CropBase.java|716|720|crop|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;Lnet/minecraft/block/material/Material;)V|crop|1
+      @|zdoctor\moreseeds\crops\CropBase.java|722|730|farmLand|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;Lnet/minecraft/block/material/Material;)V|farmLand|2
+      @|zdoctor\moreseeds\crops\CropBase.java|732|740|material|param|zdoctor.moreseeds.crops.CropBase|CropBase|(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;Lnet/minecraft/block/material/Material;)V|material|3
+      @|zdoctor\moreseeds\crops\CropBase.java|745|775|setVanilaGrowthConditionsFlags|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|setVanilaGrowthConditionsFlags|([I)Lzdoctor/lazymodder/easy/blocks/EasyBlockCrops;
+   Method End: CropBase(Ljava/lang/String;Lnet/minecraft/item/Item;Lnet/minecraft/block/Block;Lnet/minecraft/block/material/Material;)V
+   Method Start: updateTick(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V
+      @|zdoctor\moreseeds\crops\CropBase.java|825|832|worldIn|param|zdoctor.moreseeds.crops.CropBase|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V|worldIn|0
+      @|zdoctor\moreseeds\crops\CropBase.java|843|846|pos|param|zdoctor.moreseeds.crops.CropBase|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V|pos|1
+      @|zdoctor\moreseeds\crops\CropBase.java|860|865|state|param|zdoctor.moreseeds.crops.CropBase|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V|state|2
+      @|zdoctor\moreseeds\crops\CropBase.java|874|878|rand|param|zdoctor.moreseeds.crops.CropBase|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V|rand|3
+      @|zdoctor\moreseeds\crops\CropBase.java|786|794|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\CropBase.java|808|818|updateTick|method|net.minecraft.block.Block|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V
+      @|zdoctor\moreseeds\crops\CropBase.java|819|824|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\CropBase.java|834|842|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\CropBase.java|848|859|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\CropBase.java|867|873|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\CropBase.java|888|895|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\CropBase.java|896|903|worldIn|param|zdoctor.moreseeds.crops.CropBase|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V|worldIn|0
+      @|zdoctor\moreseeds\crops\CropBase.java|905|908|pos|param|zdoctor.moreseeds.crops.CropBase|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V|pos|1
+      @|zdoctor\moreseeds\crops\CropBase.java|910|915|state|param|zdoctor.moreseeds.crops.CropBase|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V|state|2
+      @|zdoctor\moreseeds\crops\CropBase.java|917|924|worldIn|param|zdoctor.moreseeds.crops.CropBase|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V|worldIn|0
+      @|zdoctor\moreseeds\crops\CropBase.java|925|933|isRemote|field|net.minecraft.world.World|isRemote
+      @|zdoctor\moreseeds\crops\CropBase.java|945|955|updateTick|method|net.minecraft.block.Block|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V
+      @|zdoctor\moreseeds\crops\CropBase.java|956|963|worldIn|param|zdoctor.moreseeds.crops.CropBase|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V|worldIn|0
+      @|zdoctor\moreseeds\crops\CropBase.java|965|968|pos|param|zdoctor.moreseeds.crops.CropBase|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V|pos|1
+      @|zdoctor\moreseeds\crops\CropBase.java|970|975|state|param|zdoctor.moreseeds.crops.CropBase|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V|state|2
+      @|zdoctor\moreseeds\crops\CropBase.java|977|981|rand|param|zdoctor.moreseeds.crops.CropBase|updateTick|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V|rand|3
+   Method End: updateTick(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;)V
+   Method Start: canBlockStay(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+      @|zdoctor\moreseeds\crops\CropBase.java|1036|1043|worldIn|param|zdoctor.moreseeds.crops.CropBase|canBlockStay|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\CropBase.java|1054|1057|pos|param|zdoctor.moreseeds.crops.CropBase|canBlockStay|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|pos|1
+      @|zdoctor\moreseeds\crops\CropBase.java|1071|1076|state|param|zdoctor.moreseeds.crops.CropBase|canBlockStay|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|state|2
+      @|zdoctor\moreseeds\crops\CropBase.java|992|1000|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\CropBase.java|1017|1029|canBlockStay|method|net.minecraft.block.BlockBush|canBlockStay|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+      @|zdoctor\moreseeds\crops\CropBase.java|1030|1035|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\CropBase.java|1045|1053|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\CropBase.java|1059|1070|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\CropBase.java|1090|1101|isFullGrown|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|isFullGrown|(Lnet/minecraft/block/state/IBlockState;)Z
+      @|zdoctor\moreseeds\crops\CropBase.java|1102|1107|state|param|zdoctor.moreseeds.crops.CropBase|canBlockStay|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|state|2
+      @|zdoctor\moreseeds\crops\CropBase.java|1112|1119|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\CropBase.java|1120|1127|worldIn|param|zdoctor.moreseeds.crops.CropBase|canBlockStay|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\CropBase.java|1129|1132|pos|param|zdoctor.moreseeds.crops.CropBase|canBlockStay|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|pos|1
+      @|zdoctor\moreseeds\crops\CropBase.java|1134|1139|state|param|zdoctor.moreseeds.crops.CropBase|canBlockStay|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|state|2
+      @|zdoctor\moreseeds\crops\CropBase.java|1141|1148|worldIn|param|zdoctor.moreseeds.crops.CropBase|canBlockStay|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\CropBase.java|1149|1157|isRemote|field|net.minecraft.world.World|isRemote
+      @|zdoctor\moreseeds\crops\CropBase.java|1163|1174|getFarmLand|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getFarmLand|()Lnet/minecraft/block/Block;
+      @|zdoctor\moreseeds\crops\CropBase.java|1180|1187|worldIn|param|zdoctor.moreseeds.crops.CropBase|canBlockStay|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\CropBase.java|1188|1201|getBlockState|method|net.minecraft.world.IBlockAccess|getBlockState|(Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;
+      @|zdoctor\moreseeds\crops\CropBase.java|1202|1205|pos|param|zdoctor.moreseeds.crops.CropBase|canBlockStay|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|pos|1
+      @|zdoctor\moreseeds\crops\CropBase.java|1206|1210|down|method|net.minecraft.util.math.BlockPos|down|()Lnet/minecraft/util/math/BlockPos;
+      @|zdoctor\moreseeds\crops\CropBase.java|1214|1222|getBlock|method|net.minecraft.block.state.IBlockState|getBlock|()Lnet/minecraft/block/Block;
+   Method End: canBlockStay(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+   Method Start: canGrow(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\CropBase.java|1338|1345|worldIn|param|zdoctor.moreseeds.crops.CropBase|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\CropBase.java|1356|1359|pos|param|zdoctor.moreseeds.crops.CropBase|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|pos|1
+      @|zdoctor\moreseeds\crops\CropBase.java|1373|1378|state|param|zdoctor.moreseeds.crops.CropBase|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|state|2
+      @|zdoctor\moreseeds\crops\CropBase.java|1388|1396|isClient|param|zdoctor.moreseeds.crops.CropBase|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|isClient|3
+      @|zdoctor\moreseeds\crops\CropBase.java|1299|1307|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\CropBase.java|1324|1331|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\CropBase.java|1332|1337|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\CropBase.java|1347|1355|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\CropBase.java|1361|1372|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\CropBase.java|1415|1423|isMaxAge|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|isMaxAge|(Lnet/minecraft/block/state/IBlockState;)Z
+      @|zdoctor\moreseeds\crops\CropBase.java|1424|1429|state|param|zdoctor.moreseeds.crops.CropBase|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|state|2
+   Method End: canGrow(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+Class End  : zdoctor.moreseeds.crops.CropBase
+endProcessing "zdoctor\moreseeds\crops\CropBase.java"
+
+startProcessing "zdoctor\moreseeds\crops\DiamondCrop.java" md5: 664f6f70403e385142a063982e611084
+@|zdoctor\moreseeds\crops\DiamondCrop.java|8|31|zdoctor.moreseeds.crops|package|zdoctor.moreseeds.crops|(file)
+Class Start: zdoctor.moreseeds.crops.DiamondCrop
+   @|zdoctor\moreseeds\crops\DiamondCrop.java|768|779|DiamondCrop|class|zdoctor.moreseeds.crops.DiamondCrop
+   @|zdoctor\moreseeds\crops\DiamondCrop.java|788|796|CropBase|class|zdoctor.moreseeds.crops.CropBase
+   @|zdoctor\moreseeds\crops\DiamondCrop.java|808|819|IHaveRecipe|class|zdoctor.lazymodder.easy.interfaces.IHaveRecipe
+   Method Start: DiamondCrop()V
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|830|841|DiamondCrop|method|zdoctor.moreseeds.crops.DiamondCrop|DiamondCrop|()V
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|869|874|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|875|882|DIAMOND|field|net.minecraft.init.Items|DIAMOND
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|884|890|Blocks|class|net.minecraft.init.Blocks
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|891|901|COAL_BLOCK|field|net.minecraft.init.Blocks|COAL_BLOCK
+   Method End: DiamondCrop()V
+   Method Start: canUseBonemeal(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|956|963|worldIn|param|zdoctor.moreseeds.crops.DiamondCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|972|976|rand|param|zdoctor.moreseeds.crops.DiamondCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|rand|1
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|987|990|pos|param|zdoctor.moreseeds.crops.DiamondCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|pos|2
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1004|1009|state|param|zdoctor.moreseeds.crops.DiamondCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|state|3
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|910|918|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|935|949|canUseBonemeal|method|net.minecraft.block.IGrowable|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|950|955|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|965|971|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|978|986|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|992|1003|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1022|1029|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1030|1036|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1037|1047|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1048|1057|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1058|1071|ALLOWBONEMEAL|field|zdoctor.moreseeds.Constants|ALLOWBONEMEAL
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1076|1083|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1084|1091|worldIn|param|zdoctor.moreseeds.crops.DiamondCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1093|1096|pos|param|zdoctor.moreseeds.crops.DiamondCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|pos|2
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1098|1103|state|param|zdoctor.moreseeds.crops.DiamondCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|state|3
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1105|1112|worldIn|param|zdoctor.moreseeds.crops.DiamondCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1113|1121|isRemote|field|net.minecraft.world.World|isRemote
+   Method End: canUseBonemeal(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+   Method Start: canGrow(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1169|1176|worldIn|param|zdoctor.moreseeds.crops.DiamondCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1187|1190|pos|param|zdoctor.moreseeds.crops.DiamondCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|pos|1
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1204|1209|state|param|zdoctor.moreseeds.crops.DiamondCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|state|2
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1219|1227|isClient|param|zdoctor.moreseeds.crops.DiamondCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|isClient|3
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1130|1138|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1155|1162|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1163|1168|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1178|1186|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1192|1203|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1243|1250|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1251|1258|worldIn|param|zdoctor.moreseeds.crops.DiamondCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1260|1263|pos|param|zdoctor.moreseeds.crops.DiamondCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|pos|1
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1265|1270|state|param|zdoctor.moreseeds.crops.DiamondCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|state|2
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1272|1280|isClient|param|zdoctor.moreseeds.crops.DiamondCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|isClient|3
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1305|1312|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1313|1319|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1320|1330|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1331|1340|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1341|1352|GROWPEACFUL|field|zdoctor.moreseeds.Constants|GROWPEACFUL
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1368|1375|worldIn|param|zdoctor.moreseeds.crops.DiamondCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1376|1389|getDifficulty|method|net.minecraft.world.World|getDifficulty|()Lnet/minecraft/world/EnumDifficulty;
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1395|1409|EnumDifficulty|class|net.minecraft.world.EnumDifficulty
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1410|1418|PEACEFUL|field|net.minecraft.world.EnumDifficulty|PEACEFUL
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1446|1454|Scanners|class|zdoctor.lazymodder.builtin.helpers.BlockFinderHelpers.Scanners
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1455|1474|checkSurrondingsFor|method|zdoctor.lazymodder.builtin.helpers.BlockFinderHelpers.Scanners|checkSurrondingsFor|(Lnet/minecraft/block/Block;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Z)Z
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1475|1481|Blocks|class|net.minecraft.init.Blocks
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1482|1486|LAVA|field|net.minecraft.init.Blocks|LAVA
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1488|1495|worldIn|param|zdoctor.moreseeds.crops.DiamondCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1497|1500|pos|param|zdoctor.moreseeds.crops.DiamondCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|pos|1
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1501|1505|down|method|net.minecraft.util.math.BlockPos|down|()Lnet/minecraft/util/math/BlockPos;
+   Method End: canGrow(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+   Method Start: getDrops(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1597|1602|world|param|zdoctor.moreseeds.crops.DiamondCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1613|1616|pos|param|zdoctor.moreseeds.crops.DiamondCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|pos|1
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1630|1635|state|param|zdoctor.moreseeds.crops.DiamondCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|state|2
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1641|1648|fortune|param|zdoctor.moreseeds.crops.DiamondCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|fortune|3
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1542|1550|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1559|1563|List|class|java.util.List
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1564|1573|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1575|1583|getDrops|method|net.minecraft.block.Block|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1584|1596|IBlockAccess|class|net.minecraft.world.IBlockAccess
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1604|1612|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1618|1629|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1654|1668|java.util.List|class|java.util.List
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1669|1678|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1690|1699|ArrayList|class|java.util.ArrayList
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1700|1709|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1728|1735|Integer|class|java.lang.Integer
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1737|1742|state|param|zdoctor.moreseeds.crops.DiamondCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|state|2
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1743|1751|getValue|method|net.minecraft.block.state.IBlockState|getValue|(Lnet/minecraft/block/properties/IProperty;)Ljava/lang/Comparable;
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1752|1755|AGE|field|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|AGE
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1758|1766|intValue|method|java.lang.Number|intValue|()I
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1772|1778|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1786|1791|world|param|zdoctor.moreseeds.crops.DiamondCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1803|1808|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1813|1818|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1820|1825|world|param|zdoctor.moreseeds.crops.DiamondCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1827|1831|rand|field|net.minecraft.world.World|rand
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1838|1844|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1855|1858|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1863|1872|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1873|1880|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1915|1918|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1923|1932|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1933|1938|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1939|1946|DIAMOND|field|net.minecraft.init.Items|DIAMOND
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1965|1972|nextInt|method|java.util.Random|nextInt|(I)I
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1985|1992|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|1993|1999|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2000|2006|getInt|method|zdoctor.lazymodder.easy.config.EasyConfig|getInt|(Ljava/lang/String;)I
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2007|2016|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2017|2034|DIAMONDSEEDCHANCE|field|zdoctor.moreseeds.Constants|DIAMONDSEEDCHANCE
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2047|2054|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2055|2061|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2062|2072|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2073|2082|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2083|2091|SEEDDROP|field|zdoctor.moreseeds.Constants|SEEDDROP
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2103|2106|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2111|2120|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2126|2133|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+   Method End: getDrops(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+   Method Start: addRecipeToList(Lnet/minecraft/util/NonNullList;)V
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2230|2240|recipeList|param|zdoctor.moreseeds.crops.DiamondCrop|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V|recipeList|0
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2171|2179|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2193|2208|addRecipeToList|method|zdoctor.lazymodder.easy.interfaces.IHaveRecipe|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2209|2220|NonNullList|class|net.minecraft.util.NonNullList
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2221|2228|IRecipe|class|net.minecraft.item.crafting.IRecipe
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2246|2253|IRecipe|class|net.minecraft.item.crafting.IRecipe
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2267|2280|RecipeBuilder|class|zdoctor.lazymodder.easy.builders.RecipeBuilder
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2286|2293|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2297|2300|map|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|map|([Ljava/lang/String;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2322|2327|where|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|where|(CLnet/minecraft/block/Block;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2333|2339|Blocks|class|net.minecraft.init.Blocks
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2340|2353|DIAMOND_BLOCK|field|net.minecraft.init.Blocks|DIAMOND_BLOCK
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2360|2365|where|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|where|(CLnet/minecraft/item/Item;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2371|2376|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2377|2388|NETHER_STAR|field|net.minecraft.init.Items|NETHER_STAR
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2390|2401|buildShaped|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|buildShaped|()Lnet/minecraft/item/crafting/IRecipe;
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2407|2417|recipeList|param|zdoctor.moreseeds.crops.DiamondCrop|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V|recipeList|0
+      @|zdoctor\moreseeds\crops\DiamondCrop.java|2418|2421|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: addRecipeToList(Lnet/minecraft/util/NonNullList;)V
+Class End  : zdoctor.moreseeds.crops.DiamondCrop
+endProcessing "zdoctor\moreseeds\crops\DiamondCrop.java"
+
+startProcessing "zdoctor\moreseeds\crops\EmeraldCrop.java" md5: b463c079b21a4712c956f762c735ecfb
+@|zdoctor\moreseeds\crops\EmeraldCrop.java|8|31|zdoctor.moreseeds.crops|package|zdoctor.moreseeds.crops|(file)
+Class Start: zdoctor.moreseeds.crops.EmeraldCrop
+   @|zdoctor\moreseeds\crops\EmeraldCrop.java|810|821|EmeraldCrop|class|zdoctor.moreseeds.crops.EmeraldCrop
+   @|zdoctor\moreseeds\crops\EmeraldCrop.java|830|838|CropBase|class|zdoctor.moreseeds.crops.CropBase
+   @|zdoctor\moreseeds\crops\EmeraldCrop.java|850|861|IHaveRecipe|class|zdoctor.lazymodder.easy.interfaces.IHaveRecipe
+   Method Start: EmeraldCrop()V
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|872|883|EmeraldCrop|method|zdoctor.moreseeds.crops.EmeraldCrop|EmeraldCrop|()V
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|911|916|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|917|924|EMERALD|field|net.minecraft.init.Items|EMERALD
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|926|932|Blocks|class|net.minecraft.init.Blocks
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|933|943|NETHERRACK|field|net.minecraft.init.Blocks|NETHERRACK
+   Method End: EmeraldCrop()V
+   Method Start: canUseBonemeal(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|998|1005|worldIn|param|zdoctor.moreseeds.crops.EmeraldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1014|1018|rand|param|zdoctor.moreseeds.crops.EmeraldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|rand|1
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1029|1032|pos|param|zdoctor.moreseeds.crops.EmeraldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|pos|2
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1046|1051|state|param|zdoctor.moreseeds.crops.EmeraldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|state|3
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|952|960|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|977|991|canUseBonemeal|method|net.minecraft.block.IGrowable|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|992|997|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1007|1013|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1020|1028|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1034|1045|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1064|1071|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1072|1078|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1079|1089|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1090|1099|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1100|1113|ALLOWBONEMEAL|field|zdoctor.moreseeds.Constants|ALLOWBONEMEAL
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1118|1125|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1126|1133|worldIn|param|zdoctor.moreseeds.crops.EmeraldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1135|1138|pos|param|zdoctor.moreseeds.crops.EmeraldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|pos|2
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1140|1145|state|param|zdoctor.moreseeds.crops.EmeraldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|state|3
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1147|1154|worldIn|param|zdoctor.moreseeds.crops.EmeraldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1155|1163|isRemote|field|net.minecraft.world.World|isRemote
+   Method End: canUseBonemeal(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+   Method Start: canGrow(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1211|1218|worldIn|param|zdoctor.moreseeds.crops.EmeraldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1229|1232|pos|param|zdoctor.moreseeds.crops.EmeraldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|pos|1
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1246|1251|state|param|zdoctor.moreseeds.crops.EmeraldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|state|2
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1261|1269|isClient|param|zdoctor.moreseeds.crops.EmeraldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|isClient|3
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1172|1180|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1197|1204|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1205|1210|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1220|1228|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1234|1245|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1285|1292|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1293|1300|worldIn|param|zdoctor.moreseeds.crops.EmeraldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1302|1305|pos|param|zdoctor.moreseeds.crops.EmeraldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|pos|1
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1307|1312|state|param|zdoctor.moreseeds.crops.EmeraldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|state|2
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1314|1322|isClient|param|zdoctor.moreseeds.crops.EmeraldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|isClient|3
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1347|1354|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1355|1361|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1362|1372|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1373|1382|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1383|1394|GROWPEACFUL|field|zdoctor.moreseeds.Constants|GROWPEACFUL
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1410|1417|worldIn|param|zdoctor.moreseeds.crops.EmeraldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1418|1431|getDifficulty|method|net.minecraft.world.World|getDifficulty|()Lnet/minecraft/world/EnumDifficulty;
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1437|1451|EnumDifficulty|class|net.minecraft.world.EnumDifficulty
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1452|1460|PEACEFUL|field|net.minecraft.world.EnumDifficulty|PEACEFUL
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1482|1489|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1490|1496|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1497|1507|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1508|1517|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1518|1528|GROWNETHER|field|zdoctor.moreseeds.Constants|GROWNETHER
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1537|1544|worldIn|param|zdoctor.moreseeds.crops.EmeraldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1545|1553|provider|field|net.minecraft.world.World|provider
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1554|1570|getDimensionType|method|net.minecraft.world.WorldProvider|getDimensionType|()Lnet/minecraft/world/DimensionType;
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1576|1589|DimensionType|class|net.minecraft.world.DimensionType
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1590|1596|NETHER|field|net.minecraft.world.DimensionType|NETHER
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1641|1649|Scanners|class|zdoctor.lazymodder.builtin.helpers.BlockFinderHelpers.Scanners
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1650|1669|checkSurrondingsFor|method|zdoctor.lazymodder.builtin.helpers.BlockFinderHelpers.Scanners|checkSurrondingsFor|(Lnet/minecraft/block/Block;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Z)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1670|1676|Blocks|class|net.minecraft.init.Blocks
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1677|1681|LAVA|field|net.minecraft.init.Blocks|LAVA
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1683|1690|worldIn|param|zdoctor.moreseeds.crops.EmeraldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1692|1695|pos|param|zdoctor.moreseeds.crops.EmeraldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|pos|1
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1696|1700|down|method|net.minecraft.util.math.BlockPos|down|()Lnet/minecraft/util/math/BlockPos;
+   Method End: canGrow(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+   Method Start: getDrops(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1792|1797|world|param|zdoctor.moreseeds.crops.EmeraldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1808|1811|pos|param|zdoctor.moreseeds.crops.EmeraldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|pos|1
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1825|1830|state|param|zdoctor.moreseeds.crops.EmeraldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|state|2
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1836|1843|fortune|param|zdoctor.moreseeds.crops.EmeraldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|fortune|3
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1737|1745|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1754|1758|List|class|java.util.List
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1759|1768|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1770|1778|getDrops|method|net.minecraft.block.Block|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1779|1791|IBlockAccess|class|net.minecraft.world.IBlockAccess
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1799|1807|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1813|1824|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1849|1863|java.util.List|class|java.util.List
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1864|1873|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1885|1894|ArrayList|class|java.util.ArrayList
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1895|1904|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1923|1930|Integer|class|java.lang.Integer
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1932|1937|state|param|zdoctor.moreseeds.crops.EmeraldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|state|2
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1938|1946|getValue|method|net.minecraft.block.state.IBlockState|getValue|(Lnet/minecraft/block/properties/IProperty;)Ljava/lang/Comparable;
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1947|1950|AGE|field|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|AGE
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1953|1961|intValue|method|java.lang.Number|intValue|()I
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1967|1973|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1981|1986|world|param|zdoctor.moreseeds.crops.EmeraldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|1998|2003|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2008|2013|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2015|2020|world|param|zdoctor.moreseeds.crops.EmeraldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2022|2026|rand|field|net.minecraft.world.World|rand
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2033|2039|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2050|2053|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2058|2067|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2073|2080|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2115|2118|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2123|2132|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2133|2138|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2139|2146|EMERALD|field|net.minecraft.init.Items|EMERALD
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2165|2172|nextInt|method|java.util.Random|nextInt|(I)I
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2185|2192|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2193|2199|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2200|2206|getInt|method|zdoctor.lazymodder.easy.config.EasyConfig|getInt|(Ljava/lang/String;)I
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2207|2216|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2217|2234|EMERALDSEEDCHANCE|field|zdoctor.moreseeds.Constants|EMERALDSEEDCHANCE
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2247|2254|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2255|2261|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2262|2272|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2273|2282|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2283|2291|SEEDDROP|field|zdoctor.moreseeds.Constants|SEEDDROP
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2303|2306|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2311|2320|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2326|2333|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+   Method End: getDrops(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+   Method Start: addRecipeToList(Lnet/minecraft/util/NonNullList;)V
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2430|2440|recipeList|param|zdoctor.moreseeds.crops.EmeraldCrop|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V|recipeList|0
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2371|2379|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2393|2408|addRecipeToList|method|zdoctor.lazymodder.easy.interfaces.IHaveRecipe|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2409|2420|NonNullList|class|net.minecraft.util.NonNullList
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2421|2428|IRecipe|class|net.minecraft.item.crafting.IRecipe
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2446|2453|IRecipe|class|net.minecraft.item.crafting.IRecipe
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2467|2480|RecipeBuilder|class|zdoctor.lazymodder.easy.builders.RecipeBuilder
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2486|2493|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2497|2500|map|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|map|([Ljava/lang/String;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2522|2527|where|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|where|(CLnet/minecraft/block/Block;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2533|2539|Blocks|class|net.minecraft.init.Blocks
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2540|2553|EMERALD_BLOCK|field|net.minecraft.init.Blocks|EMERALD_BLOCK
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2560|2565|where|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|where|(CLnet/minecraft/item/Item;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2571|2576|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2577|2588|NETHER_STAR|field|net.minecraft.init.Items|NETHER_STAR
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2590|2601|buildShaped|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|buildShaped|()Lnet/minecraft/item/crafting/IRecipe;
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2607|2617|recipeList|param|zdoctor.moreseeds.crops.EmeraldCrop|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V|recipeList|0
+      @|zdoctor\moreseeds\crops\EmeraldCrop.java|2618|2621|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: addRecipeToList(Lnet/minecraft/util/NonNullList;)V
+Class End  : zdoctor.moreseeds.crops.EmeraldCrop
+endProcessing "zdoctor\moreseeds\crops\EmeraldCrop.java"
+
+startProcessing "zdoctor\moreseeds\crops\GoldCrop.java" md5: d8eda693a49b574f8a53812b48745ae1
+@|zdoctor\moreseeds\crops\GoldCrop.java|8|31|zdoctor.moreseeds.crops|package|zdoctor.moreseeds.crops|(file)
+Class Start: zdoctor.moreseeds.crops.GoldCrop
+   @|zdoctor\moreseeds\crops\GoldCrop.java|810|818|GoldCrop|class|zdoctor.moreseeds.crops.GoldCrop
+   @|zdoctor\moreseeds\crops\GoldCrop.java|827|835|CropBase|class|zdoctor.moreseeds.crops.CropBase
+   @|zdoctor\moreseeds\crops\GoldCrop.java|847|858|IHaveRecipe|class|zdoctor.lazymodder.easy.interfaces.IHaveRecipe
+   Method Start: GoldCrop()V
+      @|zdoctor\moreseeds\crops\GoldCrop.java|869|877|GoldCrop|method|zdoctor.moreseeds.crops.GoldCrop|GoldCrop|()V
+      @|zdoctor\moreseeds\crops\GoldCrop.java|902|907|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\GoldCrop.java|908|918|GOLD_INGOT|field|net.minecraft.init.Items|GOLD_INGOT
+      @|zdoctor\moreseeds\crops\GoldCrop.java|920|926|Blocks|class|net.minecraft.init.Blocks
+      @|zdoctor\moreseeds\crops\GoldCrop.java|927|937|NETHERRACK|field|net.minecraft.init.Blocks|NETHERRACK
+   Method End: GoldCrop()V
+   Method Start: canUseBonemeal(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|992|999|worldIn|param|zdoctor.moreseeds.crops.GoldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1008|1012|rand|param|zdoctor.moreseeds.crops.GoldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|rand|1
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1023|1026|pos|param|zdoctor.moreseeds.crops.GoldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|pos|2
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1040|1045|state|param|zdoctor.moreseeds.crops.GoldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|state|3
+      @|zdoctor\moreseeds\crops\GoldCrop.java|946|954|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\GoldCrop.java|971|985|canUseBonemeal|method|net.minecraft.block.IGrowable|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|986|991|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1001|1007|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1014|1022|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1028|1039|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1058|1065|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1066|1072|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1073|1083|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1084|1093|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1094|1107|ALLOWBONEMEAL|field|zdoctor.moreseeds.Constants|ALLOWBONEMEAL
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1112|1119|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1120|1127|worldIn|param|zdoctor.moreseeds.crops.GoldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1129|1132|pos|param|zdoctor.moreseeds.crops.GoldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|pos|2
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1134|1139|state|param|zdoctor.moreseeds.crops.GoldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|state|3
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1141|1148|worldIn|param|zdoctor.moreseeds.crops.GoldCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1149|1157|isRemote|field|net.minecraft.world.World|isRemote
+   Method End: canUseBonemeal(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+   Method Start: canGrow(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1205|1212|worldIn|param|zdoctor.moreseeds.crops.GoldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1223|1226|pos|param|zdoctor.moreseeds.crops.GoldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|pos|1
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1240|1245|state|param|zdoctor.moreseeds.crops.GoldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|state|2
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1255|1263|isClient|param|zdoctor.moreseeds.crops.GoldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|isClient|3
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1166|1174|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1191|1198|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1199|1204|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1214|1222|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1228|1239|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1279|1286|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1287|1294|worldIn|param|zdoctor.moreseeds.crops.GoldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1296|1299|pos|param|zdoctor.moreseeds.crops.GoldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|pos|1
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1301|1306|state|param|zdoctor.moreseeds.crops.GoldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|state|2
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1308|1316|isClient|param|zdoctor.moreseeds.crops.GoldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|isClient|3
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1341|1348|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1349|1355|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1356|1366|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1367|1376|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1377|1388|GROWPEACFUL|field|zdoctor.moreseeds.Constants|GROWPEACFUL
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1404|1411|worldIn|param|zdoctor.moreseeds.crops.GoldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1412|1425|getDifficulty|method|net.minecraft.world.World|getDifficulty|()Lnet/minecraft/world/EnumDifficulty;
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1431|1445|EnumDifficulty|class|net.minecraft.world.EnumDifficulty
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1446|1454|PEACEFUL|field|net.minecraft.world.EnumDifficulty|PEACEFUL
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1476|1483|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1484|1490|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1491|1501|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1502|1511|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1512|1522|GROWNETHER|field|zdoctor.moreseeds.Constants|GROWNETHER
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1531|1538|worldIn|param|zdoctor.moreseeds.crops.GoldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1539|1547|provider|field|net.minecraft.world.World|provider
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1548|1564|getDimensionType|method|net.minecraft.world.WorldProvider|getDimensionType|()Lnet/minecraft/world/DimensionType;
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1570|1583|DimensionType|class|net.minecraft.world.DimensionType
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1584|1590|NETHER|field|net.minecraft.world.DimensionType|NETHER
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1635|1643|Scanners|class|zdoctor.lazymodder.builtin.helpers.BlockFinderHelpers.Scanners
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1644|1663|checkSurrondingsFor|method|zdoctor.lazymodder.builtin.helpers.BlockFinderHelpers.Scanners|checkSurrondingsFor|(Lnet/minecraft/block/Block;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Z)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1664|1670|Blocks|class|net.minecraft.init.Blocks
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1671|1675|LAVA|field|net.minecraft.init.Blocks|LAVA
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1677|1684|worldIn|param|zdoctor.moreseeds.crops.GoldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1686|1689|pos|param|zdoctor.moreseeds.crops.GoldCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|pos|1
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1690|1694|down|method|net.minecraft.util.math.BlockPos|down|()Lnet/minecraft/util/math/BlockPos;
+   Method End: canGrow(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+   Method Start: getDrops(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1786|1791|world|param|zdoctor.moreseeds.crops.GoldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1802|1805|pos|param|zdoctor.moreseeds.crops.GoldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|pos|1
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1819|1824|state|param|zdoctor.moreseeds.crops.GoldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|state|2
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1830|1837|fortune|param|zdoctor.moreseeds.crops.GoldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|fortune|3
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1731|1739|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1748|1752|List|class|java.util.List
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1753|1762|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1764|1772|getDrops|method|net.minecraft.block.Block|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1773|1785|IBlockAccess|class|net.minecraft.world.IBlockAccess
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1793|1801|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1807|1818|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1843|1857|java.util.List|class|java.util.List
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1858|1867|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1879|1888|ArrayList|class|java.util.ArrayList
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1889|1898|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1917|1924|Integer|class|java.lang.Integer
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1926|1931|state|param|zdoctor.moreseeds.crops.GoldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|state|2
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1932|1940|getValue|method|net.minecraft.block.state.IBlockState|getValue|(Lnet/minecraft/block/properties/IProperty;)Ljava/lang/Comparable;
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1941|1944|AGE|field|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|AGE
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1947|1955|intValue|method|java.lang.Number|intValue|()I
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1961|1967|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1975|1980|world|param|zdoctor.moreseeds.crops.GoldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\GoldCrop.java|1992|1997|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2002|2007|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2009|2014|world|param|zdoctor.moreseeds.crops.GoldCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2016|2020|rand|field|net.minecraft.world.World|rand
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2027|2033|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2044|2047|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2052|2061|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2067|2074|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2109|2112|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2117|2126|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2127|2132|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2133|2143|GOLD_INGOT|field|net.minecraft.init.Items|GOLD_INGOT
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2162|2169|nextInt|method|java.util.Random|nextInt|(I)I
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2182|2189|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2190|2196|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2197|2203|getInt|method|zdoctor.lazymodder.easy.config.EasyConfig|getInt|(Ljava/lang/String;)I
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2204|2213|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2214|2228|GOLDSEEDCHANCE|field|zdoctor.moreseeds.Constants|GOLDSEEDCHANCE
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2241|2244|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2249|2258|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2264|2271|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2288|2295|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2296|2302|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2303|2313|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2314|2323|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2324|2332|SEEDDROP|field|zdoctor.moreseeds.Constants|SEEDDROP
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2344|2347|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2352|2361|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2362|2367|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2368|2379|GOLD_NUGGET|field|net.minecraft.init.Items|GOLD_NUGGET
+   Method End: getDrops(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+   Method Start: addRecipeToList(Lnet/minecraft/util/NonNullList;)V
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2474|2484|recipeList|param|zdoctor.moreseeds.crops.GoldCrop|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V|recipeList|0
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2415|2423|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2437|2452|addRecipeToList|method|zdoctor.lazymodder.easy.interfaces.IHaveRecipe|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2453|2464|NonNullList|class|net.minecraft.util.NonNullList
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2465|2472|IRecipe|class|net.minecraft.item.crafting.IRecipe
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2490|2497|IRecipe|class|net.minecraft.item.crafting.IRecipe
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2511|2524|RecipeBuilder|class|zdoctor.lazymodder.easy.builders.RecipeBuilder
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2530|2537|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2541|2544|map|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|map|([Ljava/lang/String;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2566|2571|where|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|where|(CLnet/minecraft/block/Block;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2577|2583|Blocks|class|net.minecraft.init.Blocks
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2584|2594|GOLD_BLOCK|field|net.minecraft.init.Blocks|GOLD_BLOCK
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2601|2606|where|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|where|(CLnet/minecraft/item/Item;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2612|2617|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2618|2629|NETHER_STAR|field|net.minecraft.init.Items|NETHER_STAR
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2631|2642|buildShaped|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|buildShaped|()Lnet/minecraft/item/crafting/IRecipe;
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2648|2658|recipeList|param|zdoctor.moreseeds.crops.GoldCrop|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V|recipeList|0
+      @|zdoctor\moreseeds\crops\GoldCrop.java|2659|2662|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: addRecipeToList(Lnet/minecraft/util/NonNullList;)V
+Class End  : zdoctor.moreseeds.crops.GoldCrop
+endProcessing "zdoctor\moreseeds\crops\GoldCrop.java"
+
+startProcessing "zdoctor\moreseeds\crops\IronCrop.java" md5: f320f7f3c560d61a35e3e1fadd047c8c
+@|zdoctor\moreseeds\crops\IronCrop.java|8|31|zdoctor.moreseeds.crops|package|zdoctor.moreseeds.crops|(file)
+Class Start: zdoctor.moreseeds.crops.IronCrop
+   @|zdoctor\moreseeds\crops\IronCrop.java|810|818|IronCrop|class|zdoctor.moreseeds.crops.IronCrop
+   @|zdoctor\moreseeds\crops\IronCrop.java|827|835|CropBase|class|zdoctor.moreseeds.crops.CropBase
+   @|zdoctor\moreseeds\crops\IronCrop.java|847|858|IHaveRecipe|class|zdoctor.lazymodder.easy.interfaces.IHaveRecipe
+   Method Start: IronCrop()V
+      @|zdoctor\moreseeds\crops\IronCrop.java|869|877|IronCrop|method|zdoctor.moreseeds.crops.IronCrop|IronCrop|()V
+      @|zdoctor\moreseeds\crops\IronCrop.java|902|907|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\IronCrop.java|908|918|IRON_INGOT|field|net.minecraft.init.Items|IRON_INGOT
+      @|zdoctor\moreseeds\crops\IronCrop.java|920|926|Blocks|class|net.minecraft.init.Blocks
+      @|zdoctor\moreseeds\crops\IronCrop.java|927|937|NETHERRACK|field|net.minecraft.init.Blocks|NETHERRACK
+   Method End: IronCrop()V
+   Method Start: canUseBonemeal(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|992|999|worldIn|param|zdoctor.moreseeds.crops.IronCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\IronCrop.java|1008|1012|rand|param|zdoctor.moreseeds.crops.IronCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|rand|1
+      @|zdoctor\moreseeds\crops\IronCrop.java|1023|1026|pos|param|zdoctor.moreseeds.crops.IronCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|pos|2
+      @|zdoctor\moreseeds\crops\IronCrop.java|1040|1045|state|param|zdoctor.moreseeds.crops.IronCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|state|3
+      @|zdoctor\moreseeds\crops\IronCrop.java|946|954|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\IronCrop.java|971|985|canUseBonemeal|method|net.minecraft.block.IGrowable|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|986|991|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\IronCrop.java|1001|1007|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\IronCrop.java|1014|1022|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\IronCrop.java|1028|1039|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\IronCrop.java|1058|1065|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\IronCrop.java|1066|1072|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\IronCrop.java|1073|1083|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|1084|1093|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\IronCrop.java|1094|1107|ALLOWBONEMEAL|field|zdoctor.moreseeds.Constants|ALLOWBONEMEAL
+      @|zdoctor\moreseeds\crops\IronCrop.java|1112|1119|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|1120|1127|worldIn|param|zdoctor.moreseeds.crops.IronCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\IronCrop.java|1129|1132|pos|param|zdoctor.moreseeds.crops.IronCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|pos|2
+      @|zdoctor\moreseeds\crops\IronCrop.java|1134|1139|state|param|zdoctor.moreseeds.crops.IronCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|state|3
+      @|zdoctor\moreseeds\crops\IronCrop.java|1141|1148|worldIn|param|zdoctor.moreseeds.crops.IronCrop|canUseBonemeal|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\IronCrop.java|1149|1157|isRemote|field|net.minecraft.world.World|isRemote
+   Method End: canUseBonemeal(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z
+   Method Start: canGrow(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|1205|1212|worldIn|param|zdoctor.moreseeds.crops.IronCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\IronCrop.java|1223|1226|pos|param|zdoctor.moreseeds.crops.IronCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|pos|1
+      @|zdoctor\moreseeds\crops\IronCrop.java|1240|1245|state|param|zdoctor.moreseeds.crops.IronCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|state|2
+      @|zdoctor\moreseeds\crops\IronCrop.java|1255|1263|isClient|param|zdoctor.moreseeds.crops.IronCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|isClient|3
+      @|zdoctor\moreseeds\crops\IronCrop.java|1166|1174|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\IronCrop.java|1191|1198|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|1199|1204|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\IronCrop.java|1214|1222|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\IronCrop.java|1228|1239|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\IronCrop.java|1279|1286|canGrow|method|net.minecraft.block.IGrowable|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|1287|1294|worldIn|param|zdoctor.moreseeds.crops.IronCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\IronCrop.java|1296|1299|pos|param|zdoctor.moreseeds.crops.IronCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|pos|1
+      @|zdoctor\moreseeds\crops\IronCrop.java|1301|1306|state|param|zdoctor.moreseeds.crops.IronCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|state|2
+      @|zdoctor\moreseeds\crops\IronCrop.java|1308|1316|isClient|param|zdoctor.moreseeds.crops.IronCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|isClient|3
+      @|zdoctor\moreseeds\crops\IronCrop.java|1341|1348|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\IronCrop.java|1349|1355|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\IronCrop.java|1356|1366|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|1367|1376|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\IronCrop.java|1377|1388|GROWPEACFUL|field|zdoctor.moreseeds.Constants|GROWPEACFUL
+      @|zdoctor\moreseeds\crops\IronCrop.java|1404|1411|worldIn|param|zdoctor.moreseeds.crops.IronCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\IronCrop.java|1412|1425|getDifficulty|method|net.minecraft.world.World|getDifficulty|()Lnet/minecraft/world/EnumDifficulty;
+      @|zdoctor\moreseeds\crops\IronCrop.java|1431|1445|EnumDifficulty|class|net.minecraft.world.EnumDifficulty
+      @|zdoctor\moreseeds\crops\IronCrop.java|1446|1454|PEACEFUL|field|net.minecraft.world.EnumDifficulty|PEACEFUL
+      @|zdoctor\moreseeds\crops\IronCrop.java|1476|1483|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\IronCrop.java|1484|1490|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\IronCrop.java|1491|1501|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|1502|1511|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\IronCrop.java|1512|1522|GROWNETHER|field|zdoctor.moreseeds.Constants|GROWNETHER
+      @|zdoctor\moreseeds\crops\IronCrop.java|1531|1538|worldIn|param|zdoctor.moreseeds.crops.IronCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\IronCrop.java|1539|1547|provider|field|net.minecraft.world.World|provider
+      @|zdoctor\moreseeds\crops\IronCrop.java|1548|1564|getDimensionType|method|net.minecraft.world.WorldProvider|getDimensionType|()Lnet/minecraft/world/DimensionType;
+      @|zdoctor\moreseeds\crops\IronCrop.java|1570|1583|DimensionType|class|net.minecraft.world.DimensionType
+      @|zdoctor\moreseeds\crops\IronCrop.java|1584|1590|NETHER|field|net.minecraft.world.DimensionType|NETHER
+      @|zdoctor\moreseeds\crops\IronCrop.java|1635|1643|Scanners|class|zdoctor.lazymodder.builtin.helpers.BlockFinderHelpers.Scanners
+      @|zdoctor\moreseeds\crops\IronCrop.java|1644|1663|checkSurrondingsFor|method|zdoctor.lazymodder.builtin.helpers.BlockFinderHelpers.Scanners|checkSurrondingsFor|(Lnet/minecraft/block/Block;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Z)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|1664|1670|Blocks|class|net.minecraft.init.Blocks
+      @|zdoctor\moreseeds\crops\IronCrop.java|1671|1675|LAVA|field|net.minecraft.init.Blocks|LAVA
+      @|zdoctor\moreseeds\crops\IronCrop.java|1677|1684|worldIn|param|zdoctor.moreseeds.crops.IronCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|worldIn|0
+      @|zdoctor\moreseeds\crops\IronCrop.java|1686|1689|pos|param|zdoctor.moreseeds.crops.IronCrop|canGrow|(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z|pos|1
+      @|zdoctor\moreseeds\crops\IronCrop.java|1690|1694|down|method|net.minecraft.util.math.BlockPos|down|()Lnet/minecraft/util/math/BlockPos;
+   Method End: canGrow(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Z)Z
+   Method Start: getDrops(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+      @|zdoctor\moreseeds\crops\IronCrop.java|1786|1791|world|param|zdoctor.moreseeds.crops.IronCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\IronCrop.java|1802|1805|pos|param|zdoctor.moreseeds.crops.IronCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|pos|1
+      @|zdoctor\moreseeds\crops\IronCrop.java|1819|1824|state|param|zdoctor.moreseeds.crops.IronCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|state|2
+      @|zdoctor\moreseeds\crops\IronCrop.java|1830|1837|fortune|param|zdoctor.moreseeds.crops.IronCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|fortune|3
+      @|zdoctor\moreseeds\crops\IronCrop.java|1731|1739|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\IronCrop.java|1748|1752|List|class|java.util.List
+      @|zdoctor\moreseeds\crops\IronCrop.java|1753|1762|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\IronCrop.java|1764|1772|getDrops|method|net.minecraft.block.Block|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+      @|zdoctor\moreseeds\crops\IronCrop.java|1773|1785|IBlockAccess|class|net.minecraft.world.IBlockAccess
+      @|zdoctor\moreseeds\crops\IronCrop.java|1793|1801|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\IronCrop.java|1807|1818|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\IronCrop.java|1843|1857|java.util.List|class|java.util.List
+      @|zdoctor\moreseeds\crops\IronCrop.java|1858|1867|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\IronCrop.java|1879|1888|ArrayList|class|java.util.ArrayList
+      @|zdoctor\moreseeds\crops\IronCrop.java|1889|1898|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\IronCrop.java|1917|1924|Integer|class|java.lang.Integer
+      @|zdoctor\moreseeds\crops\IronCrop.java|1926|1931|state|param|zdoctor.moreseeds.crops.IronCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|state|2
+      @|zdoctor\moreseeds\crops\IronCrop.java|1932|1940|getValue|method|net.minecraft.block.state.IBlockState|getValue|(Lnet/minecraft/block/properties/IProperty;)Ljava/lang/Comparable;
+      @|zdoctor\moreseeds\crops\IronCrop.java|1941|1944|AGE|field|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|AGE
+      @|zdoctor\moreseeds\crops\IronCrop.java|1947|1955|intValue|method|java.lang.Number|intValue|()I
+      @|zdoctor\moreseeds\crops\IronCrop.java|1961|1967|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\IronCrop.java|1975|1980|world|param|zdoctor.moreseeds.crops.IronCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\IronCrop.java|1992|1997|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\IronCrop.java|2002|2007|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\IronCrop.java|2009|2014|world|param|zdoctor.moreseeds.crops.IronCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\IronCrop.java|2016|2020|rand|field|net.minecraft.world.World|rand
+      @|zdoctor\moreseeds\crops\IronCrop.java|2027|2033|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\IronCrop.java|2044|2047|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|2052|2061|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\IronCrop.java|2067|2074|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\crops\IronCrop.java|2109|2112|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|2117|2126|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\IronCrop.java|2127|2132|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\IronCrop.java|2133|2143|IRON_INGOT|field|net.minecraft.init.Items|IRON_INGOT
+      @|zdoctor\moreseeds\crops\IronCrop.java|2162|2169|nextInt|method|java.util.Random|nextInt|(I)I
+      @|zdoctor\moreseeds\crops\IronCrop.java|2182|2189|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\IronCrop.java|2190|2196|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\IronCrop.java|2197|2203|getInt|method|zdoctor.lazymodder.easy.config.EasyConfig|getInt|(Ljava/lang/String;)I
+      @|zdoctor\moreseeds\crops\IronCrop.java|2204|2213|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\IronCrop.java|2214|2228|IRONSEEDCHANCE|field|zdoctor.moreseeds.Constants|IRONSEEDCHANCE
+      @|zdoctor\moreseeds\crops\IronCrop.java|2241|2244|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|2249|2258|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\IronCrop.java|2259|2264|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\IronCrop.java|2265|2276|IRON_NUGGET|field|net.minecraft.init.Items|IRON_NUGGET
+      @|zdoctor\moreseeds\crops\IronCrop.java|2288|2295|ModMain|class|zdoctor.moreseeds.ModMain
+      @|zdoctor\moreseeds\crops\IronCrop.java|2296|2302|config|field|zdoctor.moreseeds.ModMain|config
+      @|zdoctor\moreseeds\crops\IronCrop.java|2303|2313|getBoolean|method|zdoctor.lazymodder.easy.config.EasyConfig|getBoolean|(Ljava/lang/String;)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|2314|2323|Constants|class|zdoctor.moreseeds.Constants
+      @|zdoctor\moreseeds\crops\IronCrop.java|2324|2332|SEEDDROP|field|zdoctor.moreseeds.Constants|SEEDDROP
+      @|zdoctor\moreseeds\crops\IronCrop.java|2344|2347|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\IronCrop.java|2352|2361|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\IronCrop.java|2367|2374|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+   Method End: getDrops(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+   Method Start: addRecipeToList(Lnet/minecraft/util/NonNullList;)V
+      @|zdoctor\moreseeds\crops\IronCrop.java|2471|2481|recipeList|param|zdoctor.moreseeds.crops.IronCrop|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V|recipeList|0
+      @|zdoctor\moreseeds\crops\IronCrop.java|2412|2420|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\IronCrop.java|2434|2449|addRecipeToList|method|zdoctor.lazymodder.easy.interfaces.IHaveRecipe|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V
+      @|zdoctor\moreseeds\crops\IronCrop.java|2450|2461|NonNullList|class|net.minecraft.util.NonNullList
+      @|zdoctor\moreseeds\crops\IronCrop.java|2462|2469|IRecipe|class|net.minecraft.item.crafting.IRecipe
+      @|zdoctor\moreseeds\crops\IronCrop.java|2487|2494|IRecipe|class|net.minecraft.item.crafting.IRecipe
+      @|zdoctor\moreseeds\crops\IronCrop.java|2508|2521|RecipeBuilder|class|zdoctor.lazymodder.easy.builders.RecipeBuilder
+      @|zdoctor\moreseeds\crops\IronCrop.java|2527|2534|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\crops\IronCrop.java|2538|2541|map|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|map|([Ljava/lang/String;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\IronCrop.java|2563|2568|where|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|where|(CLnet/minecraft/block/Block;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\IronCrop.java|2574|2580|Blocks|class|net.minecraft.init.Blocks
+      @|zdoctor\moreseeds\crops\IronCrop.java|2581|2591|IRON_BLOCK|field|net.minecraft.init.Blocks|IRON_BLOCK
+      @|zdoctor\moreseeds\crops\IronCrop.java|2598|2603|where|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|where|(CLnet/minecraft/item/Item;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\IronCrop.java|2609|2614|Items|class|net.minecraft.init.Items
+      @|zdoctor\moreseeds\crops\IronCrop.java|2615|2626|NETHER_STAR|field|net.minecraft.init.Items|NETHER_STAR
+      @|zdoctor\moreseeds\crops\IronCrop.java|2628|2639|buildShaped|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|buildShaped|()Lnet/minecraft/item/crafting/IRecipe;
+      @|zdoctor\moreseeds\crops\IronCrop.java|2645|2655|recipeList|param|zdoctor.moreseeds.crops.IronCrop|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V|recipeList|0
+      @|zdoctor\moreseeds\crops\IronCrop.java|2656|2659|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: addRecipeToList(Lnet/minecraft/util/NonNullList;)V
+Class End  : zdoctor.moreseeds.crops.IronCrop
+endProcessing "zdoctor\moreseeds\crops\IronCrop.java"
+
+startProcessing "zdoctor\moreseeds\crops\StrawberryCrop.java" md5: 3c0f1beab72922752238309d43e7eca3
+Cache Hit!
+@|zdoctor\moreseeds\crops\StrawberryCrop.java|8|31|zdoctor.moreseeds.crops|package|zdoctor.moreseeds.crops|(file)
+Class Start: zdoctor.moreseeds.crops.StrawberryCrop
+   @|zdoctor\moreseeds\crops\StrawberryCrop.java|635|649|StrawberryCrop|class|zdoctor.moreseeds.crops.StrawberryCrop
+   @|zdoctor\moreseeds\crops\StrawberryCrop.java|658|666|CropBase|class|zdoctor.moreseeds.crops.CropBase
+   @|zdoctor\moreseeds\crops\StrawberryCrop.java|678|689|IHaveRecipe|class|zdoctor.lazymodder.easy.interfaces.IHaveRecipe
+   Method Start: StrawberryCrop()V
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|700|714|StrawberryCrop|method|zdoctor.moreseeds.crops.StrawberryCrop|StrawberryCrop|()V
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|745|751|ZItems|class|zdoctor.moreseeds.init.ZItems
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|752|762|strawberry|field|zdoctor.moreseeds.init.ZItems|strawberry
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|767|797|setVanilaGrowthConditionsFlags|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|setVanilaGrowthConditionsFlags|([I)Lzdoctor/lazymodder/easy/blocks/EasyBlockCrops;
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|798|827|EasyBlockCrops.ConditionFlags|class|zdoctor.lazymodder.easy.blocks.EasyBlockCrops.ConditionFlags
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|828|831|ALL|field|zdoctor.lazymodder.easy.blocks.EasyBlockCrops.ConditionFlags|ALL
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|836|846|LootHelper|class|zdoctor.lazymodder.builtin.helpers.LootHelper
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|847|859|addGrassDrop|method|zdoctor.lazymodder.builtin.helpers.LootHelper|addGrassDrop|(Lnet/minecraft/item/ItemStack;I)V
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|864|873|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|874|880|ZItems|class|zdoctor.moreseeds.init.ZItems
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|881|891|strawberry|field|zdoctor.moreseeds.init.ZItems|strawberry
+   Method End: StrawberryCrop()V
+   Method Start: getDrops(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|959|964|world|param|zdoctor.moreseeds.crops.StrawberryCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|975|978|pos|param|zdoctor.moreseeds.crops.StrawberryCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|pos|1
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|992|997|state|param|zdoctor.moreseeds.crops.StrawberryCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|state|2
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1003|1010|fortune|param|zdoctor.moreseeds.crops.StrawberryCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|fortune|3
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|904|912|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|921|925|List|class|java.util.List
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|926|935|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|937|945|getDrops|method|net.minecraft.block.Block|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|946|958|IBlockAccess|class|net.minecraft.world.IBlockAccess
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|966|974|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|980|991|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1016|1020|List|class|java.util.List
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1021|1030|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1042|1061|java.util.ArrayList|class|java.util.ArrayList
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1062|1071|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1090|1097|Integer|class|java.lang.Integer
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1099|1104|state|param|zdoctor.moreseeds.crops.StrawberryCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|state|2
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1105|1113|getValue|method|net.minecraft.block.state.IBlockState|getValue|(Lnet/minecraft/block/properties/IProperty;)Ljava/lang/Comparable;
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1114|1117|AGE|field|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|AGE
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1120|1128|intValue|method|java.lang.Number|intValue|()I
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1134|1140|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1148|1153|world|param|zdoctor.moreseeds.crops.StrawberryCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1165|1170|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1175|1180|World|class|net.minecraft.world.World
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1182|1187|world|param|zdoctor.moreseeds.crops.StrawberryCrop|getDrops|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;|world|0
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1189|1193|rand|field|net.minecraft.world.World|rand
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1200|1206|Random|class|java.util.Random
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1235|1238|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1243|1252|ItemStack|class|net.minecraft.item.ItemStack
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1253|1259|ZItems|class|zdoctor.moreseeds.init.ZItems
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1260|1270|strawberry|field|zdoctor.moreseeds.init.ZItems|strawberry
+   Method End: getDrops(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Ljava/util/List;
+   Method Start: addRecipeToList(Lnet/minecraft/util/NonNullList;)V
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1360|1370|recipeList|param|zdoctor.moreseeds.crops.StrawberryCrop|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V|recipeList|0
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1301|1309|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1323|1338|addRecipeToList|method|zdoctor.lazymodder.easy.interfaces.IHaveRecipe|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1339|1350|NonNullList|class|net.minecraft.util.NonNullList
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1351|1358|IRecipe|class|net.minecraft.item.crafting.IRecipe
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1376|1383|IRecipe|class|net.minecraft.item.crafting.IRecipe
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1397|1410|RecipeBuilder|class|zdoctor.lazymodder.easy.builders.RecipeBuilder
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1416|1423|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1427|1430|map|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|map|([Ljava/lang/String;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1436|1441|where|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|where|(CLnet/minecraft/item/Item;)Lzdoctor/lazymodder/easy/builders/RecipeBuilder;
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1447|1453|ZItems|class|zdoctor.moreseeds.init.ZItems
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1454|1464|strawberry|field|zdoctor.moreseeds.init.ZItems|strawberry
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1466|1480|buildShapeless|method|zdoctor.lazymodder.easy.builders.RecipeBuilder|buildShapeless|()Lnet/minecraft/item/crafting/IRecipe;
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1486|1496|recipeList|param|zdoctor.moreseeds.crops.StrawberryCrop|addRecipeToList|(Lnet/minecraft/util/NonNullList;)V|recipeList|0
+      @|zdoctor\moreseeds\crops\StrawberryCrop.java|1497|1500|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: addRecipeToList(Lnet/minecraft/util/NonNullList;)V
+Class End  : zdoctor.moreseeds.crops.StrawberryCrop
+endProcessing "zdoctor\moreseeds\crops\StrawberryCrop.java"
+
+startProcessing "zdoctor\moreseeds\init\ZBlocks.java" md5: 72a91f01f3e8fb333e69808248a5e01b
+Cache Hit!
+@|zdoctor\moreseeds\init\ZBlocks.java|8|30|zdoctor.moreseeds.init|package|zdoctor.moreseeds.init|(file)
+Class Start: zdoctor.moreseeds.init.ZBlocks
+   @|zdoctor\moreseeds\init\ZBlocks.java|46|53|ZBlocks|class|zdoctor.moreseeds.init.ZBlocks
+Class End  : zdoctor.moreseeds.init.ZBlocks
+endProcessing "zdoctor\moreseeds\init\ZBlocks.java"
+
+startProcessing "zdoctor\moreseeds\init\ZEvents.java" md5: 8c5f995aa1c801d0eb89b6275617daf9
+Cache Hit!
+@|zdoctor\moreseeds\init\ZEvents.java|8|30|zdoctor.moreseeds.init|package|zdoctor.moreseeds.init|(file)
+Class Start: zdoctor.moreseeds.init.ZEvents
+   @|zdoctor\moreseeds\init\ZEvents.java|46|53|ZEvents|class|zdoctor.moreseeds.init.ZEvents
+Class End  : zdoctor.moreseeds.init.ZEvents
+endProcessing "zdoctor\moreseeds\init\ZEvents.java"
+
+startProcessing "zdoctor\moreseeds\init\ZItems.java" md5: 1a4f33ae3a3b91b0b0f9a7170328e3e6
+Cache Hit!
+@|zdoctor\moreseeds\init\ZItems.java|8|30|zdoctor.moreseeds.init|package|zdoctor.moreseeds.init|(file)
+Class Start: zdoctor.moreseeds.init.ZItems
+   @|zdoctor\moreseeds\init\ZItems.java|587|593|ZItems|class|zdoctor.moreseeds.init.ZItems
+   @|zdoctor\moreseeds\init\ZItems.java|611|615|Item|class|net.minecraft.item.Item
+   @|zdoctor\moreseeds\init\ZItems.java|611|615|Item|class|net.minecraft.item.Item
+   @|zdoctor\moreseeds\init\ZItems.java|616|627|diamondSeed|field|zdoctor.moreseeds.init.ZItems|diamondSeed|
+   @|zdoctor\moreseeds\init\ZItems.java|644|648|Item|class|net.minecraft.item.Item
+   @|zdoctor\moreseeds\init\ZItems.java|644|648|Item|class|net.minecraft.item.Item
+   @|zdoctor\moreseeds\init\ZItems.java|649|660|emeraldSeed|field|zdoctor.moreseeds.init.ZItems|emeraldSeed|
+   @|zdoctor\moreseeds\init\ZItems.java|677|681|Item|class|net.minecraft.item.Item
+   @|zdoctor\moreseeds\init\ZItems.java|677|681|Item|class|net.minecraft.item.Item
+   @|zdoctor\moreseeds\init\ZItems.java|682|690|goldSeed|field|zdoctor.moreseeds.init.ZItems|goldSeed|
+   @|zdoctor\moreseeds\init\ZItems.java|707|711|Item|class|net.minecraft.item.Item
+   @|zdoctor\moreseeds\init\ZItems.java|707|711|Item|class|net.minecraft.item.Item
+   @|zdoctor\moreseeds\init\ZItems.java|712|720|ironSeed|field|zdoctor.moreseeds.init.ZItems|ironSeed|
+   @|zdoctor\moreseeds\init\ZItems.java|737|745|EasyFood|class|zdoctor.lazymodder.easy.items.EasyFood
+   @|zdoctor\moreseeds\init\ZItems.java|737|745|EasyFood|class|zdoctor.lazymodder.easy.items.EasyFood
+   @|zdoctor\moreseeds\init\ZItems.java|746|756|strawberry|field|zdoctor.moreseeds.init.ZItems|strawberry|
+   @|zdoctor\moreseeds\init\ZItems.java|773|777|Item|class|net.minecraft.item.Item
+   @|zdoctor\moreseeds\init\ZItems.java|773|777|Item|class|net.minecraft.item.Item
+   @|zdoctor\moreseeds\init\ZItems.java|778|792|strawberrySeed|field|zdoctor.moreseeds.init.ZItems|strawberrySeed|
+   Method Start: preInit()V
+      @|zdoctor\moreseeds\init\ZItems.java|815|822|preInit|method|zdoctor.moreseeds.init.ZItems|preInit|()V
+      @|zdoctor\moreseeds\init\ZItems.java|829|840|diamondSeed|field|zdoctor.moreseeds.init.ZItems|diamondSeed
+      @|zdoctor\moreseeds\init\ZItems.java|847|858|DiamondCrop|class|zdoctor.moreseeds.crops.DiamondCrop
+      @|zdoctor\moreseeds\init\ZItems.java|861|868|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\init\ZItems.java|874|885|emeraldSeed|field|zdoctor.moreseeds.init.ZItems|emeraldSeed
+      @|zdoctor\moreseeds\init\ZItems.java|892|903|EmeraldCrop|class|zdoctor.moreseeds.crops.EmeraldCrop
+      @|zdoctor\moreseeds\init\ZItems.java|906|913|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\init\ZItems.java|919|927|goldSeed|field|zdoctor.moreseeds.init.ZItems|goldSeed
+      @|zdoctor\moreseeds\init\ZItems.java|934|942|GoldCrop|class|zdoctor.moreseeds.crops.GoldCrop
+      @|zdoctor\moreseeds\init\ZItems.java|945|952|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\init\ZItems.java|958|966|ironSeed|field|zdoctor.moreseeds.init.ZItems|ironSeed
+      @|zdoctor\moreseeds\init\ZItems.java|973|981|IronCrop|class|zdoctor.moreseeds.crops.IronCrop
+      @|zdoctor\moreseeds\init\ZItems.java|984|991|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+      @|zdoctor\moreseeds\init\ZItems.java|1000|1010|strawberry|field|zdoctor.moreseeds.init.ZItems|strawberry
+      @|zdoctor\moreseeds\init\ZItems.java|1017|1025|EasyFood|class|zdoctor.lazymodder.easy.items.EasyFood
+      Anon Class Start: zdoctor.moreseeds.init.ZItems$1
+         @|zdoctor\moreseeds\init\ZItems.java|1065|1074|potionDur|field|zdoctor.moreseeds.init.ZItems$1|potionDur|
+         Method Start: onFoodEaten(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+            @|zdoctor\moreseeds\init\ZItems.java|1137|1142|stack|param|zdoctor.moreseeds.init.ZItems$1|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|stack|0
+            @|zdoctor\moreseeds\init\ZItems.java|1150|1155|world|param|zdoctor.moreseeds.init.ZItems$1|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|world|1
+            @|zdoctor\moreseeds\init\ZItems.java|1170|1176|player|param|zdoctor.moreseeds.init.ZItems$1|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+            @|zdoctor\moreseeds\init\ZItems.java|1088|1096|Override|class|java.lang.Override
+            @|zdoctor\moreseeds\init\ZItems.java|1115|1126|onFoodEaten|method|net.minecraft.item.ItemFood|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+            @|zdoctor\moreseeds\init\ZItems.java|1127|1136|ItemStack|class|net.minecraft.item.ItemStack
+            @|zdoctor\moreseeds\init\ZItems.java|1144|1149|World|class|net.minecraft.world.World
+            @|zdoctor\moreseeds\init\ZItems.java|1157|1169|EntityPlayer|class|net.minecraft.entity.player.EntityPlayer
+            @|zdoctor\moreseeds\init\ZItems.java|1184|1190|Random|class|java.util.Random
+            @|zdoctor\moreseeds\init\ZItems.java|1202|1208|Random|class|java.util.Random
+            @|zdoctor\moreseeds\init\ZItems.java|1231|1238|nextInt|method|java.util.Random|nextInt|(I)I
+            @|zdoctor\moreseeds\init\ZItems.java|1264|1269|world|param|zdoctor.moreseeds.init.ZItems$1|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|world|1
+            @|zdoctor\moreseeds\init\ZItems.java|1270|1278|isRemote|field|net.minecraft.world.World|isRemote
+            @|zdoctor\moreseeds\init\ZItems.java|1285|1291|player|param|zdoctor.moreseeds.init.ZItems$1|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+            @|zdoctor\moreseeds\init\ZItems.java|1292|1307|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+            @|zdoctor\moreseeds\init\ZItems.java|1312|1324|PotionEffect|class|net.minecraft.potion.PotionEffect
+            @|zdoctor\moreseeds\init\ZItems.java|1325|1337|PotionHelper|class|zdoctor.lazymodder.builtin.helpers.PotionHelper
+            @|zdoctor\moreseeds\init\ZItems.java|1338|1343|SPEED|field|zdoctor.lazymodder.builtin.helpers.PotionHelper|SPEED
+            @|zdoctor\moreseeds\init\ZItems.java|1350|1359|potionDur|field|zdoctor.moreseeds.init.ZItems$1|potionDur
+            @|zdoctor\moreseeds\init\ZItems.java|1376|1387|onFoodEaten|method|net.minecraft.item.ItemFood|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+            @|zdoctor\moreseeds\init\ZItems.java|1388|1393|stack|param|zdoctor.moreseeds.init.ZItems$1|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|stack|0
+            @|zdoctor\moreseeds\init\ZItems.java|1395|1400|world|param|zdoctor.moreseeds.init.ZItems$1|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|world|1
+            @|zdoctor\moreseeds\init\ZItems.java|1402|1408|player|param|zdoctor.moreseeds.init.ZItems$1|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+         Method End: onFoodEaten(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+      Anon Class End: zdoctor.moreseeds.init.ZItems$1
+      @|zdoctor\moreseeds\init\ZItems.java|1426|1440|strawberrySeed|field|zdoctor.moreseeds.init.ZItems|strawberrySeed
+      @|zdoctor\moreseeds\init\ZItems.java|1447|1461|StrawberryCrop|class|zdoctor.moreseeds.crops.StrawberryCrop
+      @|zdoctor\moreseeds\init\ZItems.java|1464|1471|getSeed|method|zdoctor.lazymodder.easy.blocks.EasyBlockCrops|getSeed|()Lnet/minecraft/item/Item;
+   Method End: preInit()V
+Class End  : zdoctor.moreseeds.init.ZItems
+endProcessing "zdoctor\moreseeds\init\ZItems.java"
+
+startProcessing "zdoctor\moreseeds\proxy\ClientProxy.java" md5: 60f5189244aa3b8dc30e4bb5bf24f194
+Cache Hit!
+@|zdoctor\moreseeds\proxy\ClientProxy.java|8|31|zdoctor.moreseeds.proxy|package|zdoctor.moreseeds.proxy|(file)
+Class Start: zdoctor.moreseeds.proxy.ClientProxy
+   @|zdoctor\moreseeds\proxy\ClientProxy.java|256|267|ClientProxy|class|zdoctor.moreseeds.proxy.ClientProxy
+   @|zdoctor\moreseeds\proxy\ClientProxy.java|276|287|CommonProxy|class|zdoctor.moreseeds.proxy.CommonProxy
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|351|352|e|param|zdoctor.moreseeds.proxy.ClientProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|292|300|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|317|324|preInit|method|zdoctor.moreseeds.proxy.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|325|350|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|370|377|preInit|method|zdoctor.moreseeds.proxy.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|378|379|e|param|zdoctor.moreseeds.proxy.ClientProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|447|448|e|param|zdoctor.moreseeds.proxy.ClientProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|394|402|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|419|423|init|method|zdoctor.moreseeds.proxy.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|424|446|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|466|470|init|method|zdoctor.moreseeds.proxy.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|471|472|e|param|zdoctor.moreseeds.proxy.ClientProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|548|549|e|param|zdoctor.moreseeds.proxy.ClientProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|487|495|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|512|520|postInit|method|zdoctor.moreseeds.proxy.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|521|547|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|567|575|postInit|method|zdoctor.moreseeds.proxy.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ClientProxy.java|576|577|e|param|zdoctor.moreseeds.proxy.ClientProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : zdoctor.moreseeds.proxy.ClientProxy
+endProcessing "zdoctor\moreseeds\proxy\ClientProxy.java"
+
+startProcessing "zdoctor\moreseeds\proxy\CommonProxy.java" md5: 84aa9543138e5ae06fcb8baaf88581ba
+@|zdoctor\moreseeds\proxy\CommonProxy.java|8|31|zdoctor.moreseeds.proxy|package|zdoctor.moreseeds.proxy|(file)
+Class Start: zdoctor.moreseeds.proxy.CommonProxy
+   @|zdoctor\moreseeds\proxy\CommonProxy.java|294|305|CommonProxy|class|zdoctor.moreseeds.proxy.CommonProxy
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\CommonProxy.java|356|357|e|param|zdoctor.moreseeds.proxy.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\proxy\CommonProxy.java|322|329|preInit|method|zdoctor.moreseeds.proxy.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\CommonProxy.java|330|355|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|zdoctor\moreseeds\proxy\CommonProxy.java|363|369|ZItems|class|zdoctor.moreseeds.init.ZItems
+      @|zdoctor\moreseeds\proxy\CommonProxy.java|370|377|preInit|method|zdoctor.moreseeds.init.ZItems|preInit|()V
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\CommonProxy.java|426|427|e|param|zdoctor.moreseeds.proxy.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\proxy\CommonProxy.java|398|402|init|method|zdoctor.moreseeds.proxy.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\CommonProxy.java|403|425|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\CommonProxy.java|484|485|e|param|zdoctor.moreseeds.proxy.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\proxy\CommonProxy.java|448|456|postInit|method|zdoctor.moreseeds.proxy.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\CommonProxy.java|457|483|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : zdoctor.moreseeds.proxy.CommonProxy
+endProcessing "zdoctor\moreseeds\proxy\CommonProxy.java"
+
+startProcessing "zdoctor\moreseeds\proxy\ServerProxy.java" md5: ba42cc1334b54850668ab3e5d52e7f1c
+Cache Hit!
+@|zdoctor\moreseeds\proxy\ServerProxy.java|8|31|zdoctor.moreseeds.proxy|package|zdoctor.moreseeds.proxy|(file)
+Class Start: zdoctor.moreseeds.proxy.ServerProxy
+   @|zdoctor\moreseeds\proxy\ServerProxy.java|256|267|ServerProxy|class|zdoctor.moreseeds.proxy.ServerProxy
+   @|zdoctor\moreseeds\proxy\ServerProxy.java|276|287|CommonProxy|class|zdoctor.moreseeds.proxy.CommonProxy
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|351|352|e|param|zdoctor.moreseeds.proxy.ServerProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|292|300|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|317|324|preInit|method|zdoctor.moreseeds.proxy.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|325|350|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|370|377|preInit|method|zdoctor.moreseeds.proxy.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|378|379|e|param|zdoctor.moreseeds.proxy.ServerProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|447|448|e|param|zdoctor.moreseeds.proxy.ServerProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|394|402|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|419|423|init|method|zdoctor.moreseeds.proxy.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|424|446|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|466|470|init|method|zdoctor.moreseeds.proxy.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|471|472|e|param|zdoctor.moreseeds.proxy.ServerProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|548|549|e|param|zdoctor.moreseeds.proxy.ServerProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|487|495|Override|class|java.lang.Override
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|512|520|postInit|method|zdoctor.moreseeds.proxy.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|521|547|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|567|575|postInit|method|zdoctor.moreseeds.proxy.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|zdoctor\moreseeds\proxy\ServerProxy.java|576|577|e|param|zdoctor.moreseeds.proxy.ServerProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : zdoctor.moreseeds.proxy.ServerProxy
+endProcessing "zdoctor\moreseeds\proxy\ServerProxy.java"
+

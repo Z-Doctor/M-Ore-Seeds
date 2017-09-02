@@ -1,0 +1,6 @@
+{
+    "parent":"moreseeds:item/standard_item",
+    "textures": {
+        "layer0":"moreseeds:seeds/goldseed"
+    }
+}

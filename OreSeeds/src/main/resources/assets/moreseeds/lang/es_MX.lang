@@ -1,0 +1,13 @@
+tile.crop.diamondcrop.name=Diamante Crop
+tile.crop.ironcrop.name=Hierro Crop
+tile.crop.goldcrop.name=Oro Crop
+tile.crop.emeraldcrop.name=Esmeralda Crop
+
+item.seed.diamondcrop.name=Semillas de Diamante
+item.seed.ironcrop.name=Semillas de Hierro
+item.seed.goldcrop.name=Semillas de Oro
+item.seed.emeraldcrop.name=Semillas de Esmeralda
+
+tile.crop.strawberrycrop.name=Fresa Plant
+item.seed.strawberryseed.name=Semillas de Fresa
+item.Strawberry.name=Fresa
